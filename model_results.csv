@@ -1,0 +1,4 @@
+Model,CV AUC (mean),CV AUC (std),Test AUC,Test Accuracy
+Logistic Regression,0.9802,0.0116,0.9741,0.9563
+Random Forest,0.9812,0.0102,0.9609,0.9563
+XGBoost,0.981,0.0107,0.9614,0.9313

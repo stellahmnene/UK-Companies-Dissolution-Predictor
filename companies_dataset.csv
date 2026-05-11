@@ -1,0 +1,801 @@
+company_number,company_status,company_type,incorporation_date,dissolution_date,age_days,sic_primary,sic_sector,region,has_insolvency_history,has_charges,has_been_liquidated,office_in_dispute,undeliverable_address,officer_count,resigned_count,officer_turnover_rate,filing_count,accounts_count,confirmation_count,charge_count,outstanding_charges,charge_satisfaction_rate,psc_count,corporate_psc_count,dissolved
+NI039509,active,private-limited-guarant-nsc-limited-exemption,2000-10-25,,9326,88990,Public/Education/Health,Newtownabbey,0,0,0,0,0,14,13,0.929,85,21,21,0,0,0.0,0,0,0
+NI038794,active,ltd,2000-06-15,2013-01-04,4586,4521,Manufacturing,Carrickfergus,0,1,0,0,0,6,3,0.5,43,11,11,1,1,0.0,0,0,0
+NI043769,active,ltd,2002-08-01,2013-10-10,4088,7415,Manufacturing,Co Down,1,1,1,0,0,8,4,0.5,59,8,8,3,1,0.667,0,0,0
+NI047536,active,ltd,2003-08-12,2013-11-08,3741,43390,Construction/Transport,County Antrim,0,1,0,0,0,3,0,0.0,35,10,9,1,1,0.0,0,0,0
+NI050108,active,ltd,2004-03-30,2016-06-28,4473,70229,Real Estate/Business,Belfast,0,0,0,0,0,3,0,0.0,37,12,11,0,0,0.0,0,0,0
+NL000015,active,limited-partnership,2000-03-08,,9557,,Unknown,County Antrim,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000040,active,limited-partnership,2004-12-12,,7817,,Unknown,Holywood,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000042,active,limited-partnership,2005-07-08,,7609,,Unknown,Coleraine,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+NL000034,active,limited-partnership,2004-03-31,,8073,,Unknown,"Belfast,",0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000017,active,limited-partnership,2001-01-31,,9228,,Unknown,Unknown,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000018,active,limited-partnership,2001-08-02,,9045,,Unknown,College Square East,0,0,0,0,0,0,0,0.0,5,2,0,0,0,0.0,0,0,0
+NL000030,active,limited-partnership,2003-11-14,,8211,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000041,active,limited-partnership,2004-12-12,,7817,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+OC305893,active,llp,2003-10-28,,8228,,Unknown,Unknown,0,0,0,0,0,4,2,0.5,21,5,4,0,0,0.0,0,0,0
+OC307349,active,llp,2004-03-23,2017-05-02,4788,,Unknown,Swansea,0,1,0,0,0,40,17,0.425,100,10,11,1,1,0.0,1,0,0
+OC311128,active,llp,2005-01-24,2013-11-05,3207,,Unknown,London,0,1,0,0,0,11,9,0.818,100,9,6,1,0,1.0,0,0,0
+OC311272,active,llp,2005-01-29,,7769,,Unknown,London,0,0,0,0,0,2,0,0.0,23,6,6,0,0,0.0,0,0,0
+SC206976,active,ltd,2000-05-09,2023-09-12,8526,78200,Real Estate/Business,Aberdeen,1,1,0,0,0,7,4,0.571,77,18,19,3,0,1.0,4,1,0
+SF000879,active,oversea-company,2002-06-01,,8742,,Unknown,Norway,0,0,0,0,0,7,0,0.0,10,2,2,0,0,0.0,0,0,0
+SF000885,active,oversea-company,2002-08-15,,8667,,Unknown,Oklahoma 74105  Usa,0,0,0,0,0,6,0,0.0,11,0,1,0,0,0.0,0,0,0
+SF000939,active,oversea-company,2004-08-15,,7936,,Unknown,Ny 11364   Usa,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,0
+SF000835,active,oversea-company,2000-11-06,,9314,,Unknown,95054 Usa,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,0
+SF000869,active,oversea-company,2001-12-20,,8905,,Unknown,Delaware Usa,0,0,0,0,0,3,0,0.0,4,0,0,0,0,0.0,0,0,0
+SF000847,active,oversea-company,2001-04-01,,9168,,Unknown,Usa,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,0
+SF000818,active,oversea-company,2000-05-15,,9489,,Unknown,South Africa,0,0,0,0,0,4,0,0.0,3,0,0,0,0,0.0,0,0,0
+SF000841,active,oversea-company,2001-03-31,,9169,,Unknown,London,0,0,0,0,0,3,0,0.0,4,1,0,0,0,0.0,0,0,0
+SF000909,active,oversea-company,2003-08-01,,8316,,Unknown,Canada  L3r 0h6,0,0,0,0,0,3,0,0.0,4,0,0,0,0,0.0,0,0,0
+SF000917,active,oversea-company,2003-11-07,,8218,,Unknown,La 70560,0,0,0,0,0,1,0,0.0,4,1,0,0,0,0.0,0,0,0
+SF000817,active,oversea-company,2000-03-27,,9538,,Unknown,British Virgin Islands,0,1,0,0,0,3,0,0.0,14,8,1,2,2,0.0,0,0,0
+SF000822,active,oversea-company,2000-06-29,,9444,,Unknown,Edinburgh,0,0,0,0,0,7,0,0.0,4,0,0,0,0,0.0,0,0,0
+SF000894,active,oversea-company,2002-12-21,,8539,,Unknown,Isle Of Man,0,0,0,0,0,4,2,0.5,8,3,0,0,0,0.0,0,0,0
+SF000964,active,oversea-company,2005-09-19,,7536,,Unknown,De 19711  Usa,0,0,0,0,0,1,1,1.0,4,0,0,0,0,0.0,0,0,0
+SF000849,active,oversea-company,2001-08-01,,9046,,Unknown,"North Carolina, Usa, 27278",0,0,0,0,0,3,0,0.0,6,2,0,0,0,0.0,0,0,0
+SF000867,active,oversea-company,2001-12-20,,8905,,Unknown,Delaware Usa,0,0,0,0,0,2,0,0.0,4,1,0,0,0,0.0,0,0,0
+SF000807,active,oversea-company,2000-02-01,,9593,,Unknown,55441-3787  Usa,0,0,0,0,0,6,0,0.0,5,2,0,0,0,0.0,0,0,0
+SF000949,active,oversea-company,2004-05-11,,8032,,Unknown,Ayr,0,0,0,0,0,3,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL003690,active,limited-partnership,2000-01-25,,9600,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL003829,active,limited-partnership,2000-08-09,,9403,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003714,active,limited-partnership,2000-02-29,,9565,,Unknown,Glasgow,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL003741,active,limited-partnership,2000-03-31,,9534,,Unknown,Argyll,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003841,active,limited-partnership,2000-08-29,,9383,,Unknown,Glasgow,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003698,active,limited-partnership,2000-02-09,,9585,,Unknown,Perthshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003724,active,limited-partnership,2000-03-08,,9557,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,19,0,0,0,0,0.0,0,0,0
+SL003729,active,limited-partnership,2000-03-22,,9543,,Unknown,Glasgow,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003972,active,limited-partnership,2000-12-15,,9275,,Unknown,Annan,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL004904,active,limited-partnership,2003-04-30,,8409,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0
+SL004051,active,limited-partnership,2001-01-22,,9237,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004305,active,limited-partnership,2001-07-20,,9058,,Unknown,Forres,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004350,active,limited-partnership,2001-09-05,,9011,,Unknown,Aberdeenshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004497,active,limited-partnership,2002-01-31,,8863,,Unknown,Lochearnhead,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL005228,active,limited-partnership,2004-06-22,,7990,,Unknown,Jersey,0,0,0,0,1,0,0,0.0,9,0,0,0,0,0.0,0,0,0
+SL005240,active,limited-partnership,2004-07-12,,7970,,Unknown,Eskbank,0,0,0,0,1,0,0,0.0,18,0,0,0,0,0.0,0,0,0
+SL005292,active,limited-partnership,2004-09-24,,7896,,Unknown,Channel Islands,0,0,0,0,1,0,0,0.0,7,0,0,0,0,0.0,0,0,0
+SL004710,active,limited-partnership,2002-09-05,,8646,,Unknown,Aberdeenshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL005033,active,limited-partnership,2003-10-17,,8239,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,6,0,0,0,0,0.0,0,0,0
+SL004078,active,limited-partnership,2001-02-08,,9220,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0
+SL003785,active,limited-partnership,2000-05-17,,9487,,Unknown,Fochabers,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003884,active,limited-partnership,2000-11-01,,9319,,Unknown,Sutherland,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL003891,active,limited-partnership,2000-11-09,,9311,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003869,active,limited-partnership,2000-10-19,,9332,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,11,0,4,0,0,0.0,3,2,0
+SL004077,active,limited-partnership,2001-02-07,,9221,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,16,0,0,0,0,0.0,0,0,0
+SL003717,active,limited-partnership,2000-02-28,,9566,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL003701,active,limited-partnership,2000-02-14,,9580,,Unknown,Lockerbie,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL003768,active,limited-partnership,2000-05-05,,9499,,Unknown,Midlothian,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004068,active,limited-partnership,2001-02-01,,9227,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL003684,active,limited-partnership,2000-01-13,,9612,,Unknown,Ayr,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003732,active,limited-partnership,2000-03-24,,9541,,Unknown,Perthshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003871,active,limited-partnership,2000-10-20,,9331,,Unknown,East Lothian,0,0,0,0,1,0,0,0.0,6,0,2,0,0,0.0,1,0,0
+SL003713,active,limited-partnership,2000-02-29,,9565,,Unknown,Glasgow,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003823,active,limited-partnership,2000-07-26,,9417,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+SL003849,active,limited-partnership,2000-09-11,,9370,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,6,0,0,0,0,0.0,0,0,0
+SL003738,active,limited-partnership,2000-03-28,,9537,,Unknown,Aberdeenshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003736,active,limited-partnership,2000-03-27,,9538,,Unknown,Kincardineshire,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL003824,active,limited-partnership,2000-07-27,,9416,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004072,active,limited-partnership,2001-02-02,,9226,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL004076,active,limited-partnership,2001-02-07,,9221,,Unknown,Laggan Bridge,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL004079,active,limited-partnership,2001-02-08,,9220,,Unknown,Argyll,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004073,active,limited-partnership,2001-02-02,,9226,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0
+SL004101,active,limited-partnership,2001-02-22,,9206,,Unknown,Aberdeenshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL005622,active,limited-partnership,2005-12-19,,7445,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+SL004344,active,limited-partnership,2001-08-31,,9016,,Unknown,Ayrshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004061,active,limited-partnership,2001-01-22,,9237,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,9,0,0,0,0,0.0,0,0,0
+SL004084,active,limited-partnership,2001-02-09,,9219,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,7,0,0,0,0,0.0,0,0,0
+SL004099,active,limited-partnership,2001-02-19,,9209,,Unknown,Banff,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003715,active,limited-partnership,2000-02-28,,9566,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+SL003703,active,limited-partnership,2000-02-15,,9579,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,8,0,3,0,0,0.0,1,1,0
+SL003899,active,limited-partnership,2000-11-17,,9303,,Unknown,Dumfries,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL003938,active,limited-partnership,2000-12-11,,9279,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL004005,active,limited-partnership,2000-12-21,,9269,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0
+SL004006,active,limited-partnership,2000-12-21,,9269,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL003986,active,limited-partnership,2000-12-19,,9271,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0
+SL004539,active,limited-partnership,2002-03-21,,8814,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004561,active,limited-partnership,2002-04-22,,8782,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004838,active,limited-partnership,2003-01-23,,8506,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL004502,active,limited-partnership,2002-02-04,,8859,,Unknown,Renfrewshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004709,active,limited-partnership,2002-09-04,,8647,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+SL004270,active,limited-partnership,2001-06-25,,9083,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL005239,active,limited-partnership,2004-07-05,,7977,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0
+SL003874,active,limited-partnership,2000-10-25,,9326,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL004054,active,limited-partnership,2001-01-23,,9236,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NI058260,active,private-unlimited,2006-02-23,,7379,8512,Manufacturing,Co Down,1,0,1,0,0,5,2,0.4,23,1,4,0,0,0.0,0,0,0
+NI063033,active,ltd,2007-02-07,2015-06-18,3053,,Unknown,N. Ireland,1,1,1,0,0,5,3,0.6,22,1,2,2,2,0.0,0,0,0
+NI603128,active,ltd,2010-05-13,2014-12-02,1664,55100,Retail/Trade,Belfast,1,1,0,0,0,3,1,0.333,21,2,3,1,1,0.0,0,0,0
+NI603481,active,ltd,2010-06-16,2016-12-27,2386,41100,Construction/Transport,Belfast,0,1,0,0,0,6,3,0.5,28,5,6,4,4,0.0,0,0,0
+NL000065,active,limited-partnership,2009-09-27,,6067,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000051,active,limited-partnership,2007-06-26,,6891,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000057,active,limited-partnership,2008-05-14,,6568,,Unknown,Bt17fw,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000047,active,limited-partnership,2006-03-07,,7367,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000050,active,limited-partnership,2007-03-13,,6996,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000059,active,limited-partnership,2008-07-01,,6520,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000064,active,limited-partnership,2009-09-27,,6067,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000054,active,limited-partnership,2007-10-22,,6773,,Unknown,Unknown,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000045,active,limited-partnership,2006-03-08,,7366,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+OC332458,active,llp,2007-10-29,2012-08-14,1751,,Unknown,London,0,0,0,0,0,2,0,0.0,15,4,3,0,0,0.0,0,0,0
+OC352666,active,llp,2010-02-26,2021-03-16,4036,,Unknown,Hertfordshire,0,1,0,0,0,4,1,0.25,35,10,10,3,3,0.0,1,1,0
+OC353080,active,llp,2010-03-10,2014-07-08,1581,,Unknown,London,0,0,0,0,0,5,3,0.6,21,2,3,0,0,0.0,0,0,0
+06963470,active,ltd,2009-07-15,2017-02-14,2771,43341,Construction/Transport,Plymouth,0,0,0,0,0,3,1,0.333,27,8,6,0,0,0.0,0,0,0
+06963132,active,ltd,2009-07-15,2015-11-17,2316,19209,Manufacturing,Manchester,0,0,0,0,0,4,3,0.75,30,5,5,0,0,0.0,0,0,0
+06982442,active,ltd,2009-08-05,2011-11-22,839,7487,Manufacturing,London,0,0,0,0,0,1,0,0.0,7,0,1,0,0,0.0,0,0,0
+07020772,active,ltd,2009-09-16,2017-03-07,2729,41201,Construction/Transport,Merseyside,0,0,0,0,0,4,4,1.0,26,7,6,0,0,0.0,0,0,0
+07027135,active,ltd,2009-09-23,2019-07-23,3590,86900,Public/Education/Health,Bognor Regis,0,0,0,0,0,1,0,0.0,31,9,8,0,0,0.0,1,0,0
+07038120,active,ltd,2009-10-12,,6052,99000,Other Services,London,0,0,0,0,0,4,4,1.0,1,0,0,0,0,0.0,0,0,0
+07046474,active,ltd,2009-10-16,2014-12-02,1873,41100,Construction/Transport,Derbyshire,0,0,0,0,0,2,2,1.0,21,2,4,0,0,0.0,0,0,0
+07386216,active,ltd,2010-09-23,2015-08-18,1790,93199,Other Services,Surrey,0,0,0,0,0,1,0,0.0,13,1,2,0,0,0.0,0,0,0
+07394408,active,ltd,2010-10-01,2017-04-04,2377,47890,Construction/Transport,Ilford,0,0,0,0,0,3,2,0.667,45,8,9,0,0,0.0,0,0,0
+07394977,active,ltd,2010-10-04,2015-01-13,1562,62020,Finance/Insurance,Berkshire,0,0,0,0,0,1,0,0.0,12,3,3,0,0,0.0,0,0,0
+07409441,active,ltd,2010-10-15,2015-08-04,1754,99999,Other Services,Buckinghamshire,0,0,0,0,0,2,0,0.0,12,4,4,0,0,0.0,0,0,0
+07411304,active,ltd,2010-10-18,2015-09-08,1786,49410,Construction/Transport,Dartford,0,0,0,0,0,1,0,0.0,13,2,3,0,0,0.0,0,0,0
+07419692,active,ltd,2010-10-26,2016-05-24,2037,90020,Other Services,Oxford,0,0,0,0,0,1,0,0.0,16,4,5,0,0,0.0,0,0,0
+07431006,active,ltd,2010-11-05,2015-06-30,1698,78109,Real Estate/Business,Surrey,0,0,0,0,0,5,3,0.6,20,3,4,0,0,0.0,0,0,0
+07438022,active,ltd,2010-11-12,2013-03-19,858,62020,Finance/Insurance,London,0,0,0,0,0,3,1,0.333,12,0,2,0,0,0.0,0,0,0
+07440704,active,ltd,2010-11-16,2015-03-03,1568,49410,Construction/Transport,Lincolnshire,0,0,0,0,0,1,0,0.0,11,0,1,0,0,0.0,0,0,0
+07450808,active,ltd,2010-11-25,2015-03-03,1559,43999,Construction/Transport,Lincolnshire,0,0,0,0,0,1,0,0.0,11,0,1,0,0,0.0,0,0,0
+07455543,active,ltd,2010-11-30,2019-01-29,2982,86230,Public/Education/Health,South Yorkshire,0,0,0,0,0,3,2,0.667,29,8,7,0,0,0.0,1,0,0
+07237392,active,ltd,2010-04-28,2023-04-04,4724,87900,Public/Education/Health,England,0,0,0,0,0,2,1,0.5,34,12,12,0,0,0.0,1,0,0
+07256308,active,ltd,2010-05-18,2020-10-20,3808,62020,Finance/Insurance,Essex,0,0,0,0,0,2,0,0.0,23,9,9,0,0,0.0,1,0,0
+07277687,active,private-limited-guarant-nsc,2010-06-08,2017-05-30,2548,85590,Public/Education/Health,Warwickshire,0,0,0,0,0,8,3,0.375,24,6,6,0,0,0.0,0,0,0
+07280246,active,ltd,2010-06-10,2015-05-12,1797,96010,Other Services,London,0,0,0,0,0,2,1,0.5,20,2,3,0,0,0.0,0,0,0
+07308007,active,ltd,2010-07-08,2019-05-21,3239,68100,Finance/Insurance,Hampshire,0,0,0,0,0,2,1,0.5,26,8,8,0,0,0.0,1,0,0
+07311677,active,ltd,2010-07-12,,5779,7470,Manufacturing,Kent,0,0,0,0,0,2,0,0.0,4,0,0,0,0,0.0,0,0,0
+07316651,active,ltd,2010-07-15,2019-01-15,3106,98000,Other Services,Middlesex,0,1,0,0,0,8,5,0.625,46,7,10,1,0,1.0,3,0,0
+07352972,active,ltd,2010-08-23,2020-10-13,3704,47990,Construction/Transport,Hampshire,0,0,0,0,0,1,0,0.0,29,10,9,0,0,0.0,1,0,0
+07076590,active,ltd,2009-11-14,,6019,62090,Finance/Insurance,East Sussex,0,0,0,0,0,1,0,0.0,13,3,4,0,0,0.0,0,0,0
+07083592,active,ltd,2009-11-23,2021-12-07,4397,96090,Other Services,London,0,0,0,0,0,3,2,0.667,49,10,11,0,0,0.0,1,0,0
+07092442,active,ltd,2009-12-01,2015-08-18,2086,96090,Other Services,Lancashire,0,0,0,0,0,2,1,0.5,18,4,5,0,0,0.0,0,0,0
+07125640,active,ltd,2010-01-14,,5958,99999,Other Services,Grimsby,0,0,0,0,0,1,0,0.0,15,4,5,0,0,0.0,0,0,0
+07127795,active,ltd,2010-01-17,2015-07-14,2004,56101,Retail/Trade,Kent,0,0,0,0,0,2,1,0.5,15,4,4,0,0,0.0,0,0,0
+07131047,active,ltd,2010-01-20,2017-03-14,2610,61900,Finance/Insurance,Berkshire,0,0,0,0,0,2,0,0.0,29,8,6,0,0,0.0,0,0,0
+07143179,active,ltd,2010-02-02,2017-11-04,2832,32990,Manufacturing,Manchester,1,1,0,0,0,4,1,0.25,40,6,6,7,4,0.429,0,0,0
+07178147,active,ltd,2010-03-04,2015-08-04,1979,59111,Retail/Trade,Surrey,0,0,0,0,0,3,1,0.333,15,3,4,0,0,0.0,0,0,0
+07199508,active,ltd,2010-03-23,2015-08-04,1960,80100,Public/Education/Health,Slough,0,0,0,0,0,3,2,0.667,32,3,4,0,0,0.0,0,0,0
+07200446,active,ltd,2010-03-23,2014-07-22,1582,56302,Retail/Trade,Nottinghamshire,0,0,0,0,0,2,0,0.0,10,2,3,0,0,0.0,0,0,0
+07216970,active,ltd,2010-04-08,2020-10-13,3841,56102,Retail/Trade,London,0,0,0,0,0,3,1,0.333,31,11,9,0,0,0.0,1,0,0
+06787272,active,ltd,2009-01-09,,6328,71129,Real Estate/Business,London,0,0,0,0,0,2,2,1.0,19,2,3,0,0,0.0,0,0,0
+06799271,active,ltd,2009-01-22,2014-11-18,2126,62020,Finance/Insurance,Hampshire,0,1,0,0,0,4,3,0.75,35,4,7,1,1,0.0,0,0,0
+06827459,active,ltd,2009-02-23,2018-02-14,3278,33200,Manufacturing,Southampton,1,1,0,0,0,4,2,0.5,36,6,7,2,1,0.5,0,0,0
+06888134,active,ltd,2009-04-27,,6220,,Unknown,West Sussex,0,0,0,0,0,1,0,0.0,2,0,0,0,0,0.0,0,0,0
+06895134,active,ltd,2009-05-05,2015-07-21,2268,46420,Construction/Transport,London,0,0,0,0,0,1,0,0.0,16,6,5,0,0,0.0,0,0,0
+06888749,active,ltd,2009-04-27,2015-05-19,2213,69109,Finance/Insurance,London,0,0,0,0,0,2,1,0.5,19,3,3,0,0,0.0,0,0,0
+06912268,active,ltd,2009-05-21,2019-10-01,3785,68100,Finance/Insurance,London,0,0,0,0,0,5,3,0.6,41,10,10,0,0,0.0,2,0,0
+06911978,active,ltd,2009-05-20,2013-10-01,1595,93290,Other Services,Essex,0,0,0,0,0,5,1,0.2,24,4,3,0,0,0.0,0,0,0
+06634113,active,ltd,2008-07-01,,6520,82990,Public/Education/Health,Hythe,0,0,0,0,0,1,0,0.0,28,11,13,0,0,0.0,1,0,0
+06657968,active,ltd,2008-07-28,2020-03-03,4236,82990,Public/Education/Health,Essex,0,1,0,0,0,6,4,0.667,44,11,11,1,1,0.0,1,1,0
+06666865,active,ltd,2008-08-07,,6483,7420,Manufacturing,Warwickshire,0,0,0,0,0,3,2,0.667,17,1,2,0,0,0.0,0,0,0
+06674284,active,ltd,2008-08-15,,6475,5141,Manufacturing,West Bromwich,0,0,0,0,0,5,3,0.6,19,2,2,0,0,0.0,0,0,0
+06689584,active,ltd,2008-09-04,2015-02-03,2343,38320,Manufacturing,Cardiff,0,0,0,1,0,4,2,0.5,26,5,5,0,0,0.0,0,0,0
+06708383,active,ltd,2008-09-25,2017-04-18,3127,70229,Real Estate/Business,Bexleyheath,0,0,0,0,0,1,0,0.0,25,7,8,0,0,0.0,1,0,0
+06708702,active,private-unlimited,2008-09-26,,6433,7499,Manufacturing,London,0,0,0,0,0,3,0,0.0,1,0,0,0,0,0.0,0,0,0
+06718888,active,ltd,2008-10-08,2017-05-30,3156,74901,Real Estate/Business,Ilkley,0,0,0,0,0,4,3,0.75,33,6,7,0,0,0.0,0,0,0
+06725417,active,ltd,2008-10-16,2016-04-05,2728,68320,Finance/Insurance,Berkshire,0,0,0,0,0,3,2,0.667,21,6,7,0,0,0.0,0,0,0
+06725793,active,ltd,2008-10-16,2011-11-29,1139,82990,Public/Education/Health,Warwick,0,0,0,0,0,2,0,0.0,14,1,3,0,0,0.0,0,0,0
+06753023,active,ltd,2008-11-19,2015-06-23,2407,82990,Public/Education/Health,West Midlands,0,0,0,0,0,2,1,0.5,20,5,6,0,0,0.0,0,0,0
+06586743,active,ltd,2008-05-07,2016-03-29,2883,71129,Real Estate/Business,Manchester,0,0,0,0,0,2,1,0.5,23,7,7,0,0,0.0,0,0,0
+06621314,active,ltd,2008-06-17,2015-08-18,2618,71122,Real Estate/Business,Hampshire,0,0,0,0,0,3,1,0.333,24,7,6,0,0,0.0,0,0,0
+06642149,active,ltd,2008-07-09,2015-01-20,2386,70100,Real Estate/Business,Cheshire,0,1,0,0,0,5,5,1.0,31,6,6,1,1,0.0,0,0,0
+06658367,active,ltd,2008-07-29,2013-04-30,1736,99999,Other Services,West Yorkshire,0,0,0,0,0,4,2,0.5,29,4,4,0,0,0.0,0,0,0
+06663893,active,ltd,2008-08-04,,6486,5211,Manufacturing,Hull,0,0,0,0,0,3,0,0.0,8,1,1,0,0,0.0,0,0,0
+06664775,active,ltd,2008-08-05,2020-01-10,4175,41100,Construction/Transport,Bury,1,0,0,0,0,5,2,0.4,40,9,9,0,0,0.0,1,0,0
+06675033,active,ltd,2008-08-18,2018-12-11,3767,41100,Construction/Transport,Buckinghamshire,0,1,0,0,0,5,3,0.6,41,9,10,1,0,1.0,1,0,0
+06688256,active,ltd,2008-09-03,2013-11-12,1896,62090,Finance/Insurance,Lancashire,0,0,0,0,0,1,0,0.0,14,3,4,0,0,0.0,0,0,0
+06743374,active,ltd,2008-11-06,2015-08-18,2476,51210,Retail/Trade,Teignmouth,0,0,0,0,0,2,0,0.0,17,5,6,0,0,0.0,0,0,0
+SF001039,active,oversea-company,2009-05-15,,6202,,Unknown,Douglas,0,0,0,0,0,2,0,0.0,4,0,0,0,0,0.0,0,0,0
+SF001001,active,oversea-company,2007-04-12,,6966,,Unknown,Edinburgh,0,0,0,0,0,8,0,0.0,3,0,0,0,0,0.0,0,0,0
+SF000969,active,oversea-company,2006-01-01,,7432,,Unknown,Netherlands,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SF000972,active,oversea-company,2006-01-16,,7417,,Unknown,British Virgin Islands,0,0,0,0,0,20,18,0.9,66,16,5,0,0,0.0,0,0,0
+SF001038,active,oversea-company,2008-02-27,,6645,,Unknown,Guernsey,0,0,0,0,0,3,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL005653,active,limited-partnership,2006-02-10,,7392,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL005724,active,limited-partnership,2006-04-04,,7339,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0
+SL005706,active,limited-partnership,2006-03-17,,7357,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL005699,active,limited-partnership,2006-03-17,,7357,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL005708,active,limited-partnership,2006-03-17,,7357,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL005637,active,limited-partnership,2006-01-27,,7406,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL005697,active,limited-partnership,2006-03-09,,7365,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL005656,active,limited-partnership,2006-02-10,,7392,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL005705,active,limited-partnership,2006-03-17,,7357,,Unknown,Unknown,0,0,0,0,1,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+SL005804,active,limited-partnership,2006-07-01,,7251,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,8,0,3,0,0,0.0,1,0,0
+SL005629,active,limited-partnership,2006-01-10,,7423,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,20,0,2,0,0,0.0,3,2,0
+SL005655,active,limited-partnership,2006-02-10,,7392,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL005796,active,limited-partnership,2006-06-22,,7260,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL006147,active,limited-partnership,2007-07-12,,6875,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,0,0,0,0,0,0.0,0,0,0
+NI606237,active,ltd,2011-02-18,2012-06-15,483,,Unknown,Co. Down,0,0,0,0,0,2,2,1.0,7,0,0,0,0,0.0,0,0,0
+NI607777,active,ltd,2011-06-08,2018-11-27,2729,45200,Construction/Transport,Armagh,0,0,0,0,0,3,1,0.333,21,4,6,0,0,0.0,1,0,0
+NI607563,active,ltd,2011-05-24,2015-12-15,1666,70100,Real Estate/Business,County Antrim,0,1,0,0,0,11,5,0.455,38,3,3,2,2,0.0,0,0,0
+NI618339,active,ltd,2013-05-10,2014-11-07,546,,Unknown,County Tyrone,0,0,0,0,0,1,0,0.0,5,0,0,0,0,0.0,0,0,0
+NI625848,active,ltd,2014-07-28,2015-06-26,333,,Unknown,County Antrim,0,0,0,0,0,2,1,0.5,6,0,0,0,0,0.0,0,0,0
+NI628743,active,ltd,2015-01-16,2019-02-19,1495,70221,Real Estate/Business,County Down,0,0,0,0,0,1,0,0.0,11,3,3,0,0,0.0,1,0,0
+NL000106,active,limited-partnership,2015-01-08,,4138,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000173,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000226,active,limited-partnership,2015-12-02,,3810,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000151,active,limited-partnership,2015-04-27,,4029,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000219,active,limited-partnership,2015-11-12,,3830,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000077,active,limited-partnership,2014-05-02,,4389,,Unknown,Lisburn,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000121,active,limited-partnership,2015-03-11,,4076,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000069,active,limited-partnership,2011-08-19,,5376,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000087,active,limited-partnership,2014-08-11,,4288,,Unknown,Lisburn,0,0,0,0,0,0,0,0.0,6,0,0,0,0,0.0,0,0,0
+NL000129,active,limited-partnership,2015-03-24,,4063,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+NL000132,active,limited-partnership,2015-03-24,,4063,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000216,active,limited-partnership,2015-10-26,,3847,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000137,active,limited-partnership,2015-03-27,,4060,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000175,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000179,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000073,active,limited-partnership,2012-08-15,,5014,,Unknown,Antrim,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000145,active,limited-partnership,2015-04-13,,4043,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000113,active,limited-partnership,2015-02-05,,4110,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000188,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000161,active,limited-partnership,2015-08-17,,3917,,Unknown,Lisburn,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000205,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000176,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000143,active,limited-partnership,2015-04-13,,4043,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000181,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000184,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000090,active,limited-partnership,2014-08-11,,4288,,Unknown,Lisburn,0,0,0,0,0,0,0,0.0,6,0,0,0,0,0.0,0,0,0
+NL000187,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000191,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000125,active,limited-partnership,2015-03-11,,4076,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000190,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000128,active,limited-partnership,2015-03-24,,4063,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000180,active,limited-partnership,2015-10-20,,3853,,Unknown,"Belfast,",0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000110,active,limited-partnership,2015-01-26,,4120,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000127,active,limited-partnership,2015-03-24,,4063,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000185,active,limited-partnership,2015-10-20,,3853,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+OC403303,active,llp,2015-12-07,2018-08-14,981,,Unknown,London,0,0,0,0,0,2,0,0.0,6,0,0,0,0,0.0,0,0,0
+OC403391,active,llp,2015-12-10,,3802,,Unknown,Cwmbran,0,0,0,0,0,2,1,0.5,17,4,6,0,0,0.0,1,0,0
+07763002,active,ltd,2011-09-05,2015-03-24,1296,84110,Public/Education/Health,London,0,0,0,0,0,3,2,0.667,28,2,2,0,0,0.0,0,0,0
+07773576,active,ltd,2011-09-14,,5350,59112,Retail/Trade,London,0,0,0,0,0,3,1,0.333,13,0,2,0,0,0.0,1,0,0
+07783188,active,ltd,2011-09-22,,5342,69109,Finance/Insurance,Cardiff,0,0,0,0,0,1,0,0.0,22,9,9,0,0,0.0,1,0,0
+07785387,active,ltd,2011-09-23,2017-02-28,1985,82990,Public/Education/Health,London,0,0,0,0,0,1,0,0.0,20,2,4,0,0,0.0,0,0,0
+07791078,active,private-limited-guarant-nsc,2011-09-29,2019-10-22,2945,37000,Manufacturing,Devon,0,0,0,0,0,12,7,0.583,35,7,7,0,0,0.0,0,0,0
+07795943,active,ltd,2011-10-04,2015-08-04,1400,70229,Real Estate/Business,Dorset,0,0,0,0,0,1,0,0.0,10,3,3,0,0,0.0,0,0,0
+07800438,active,ltd,2011-10-06,2013-05-21,593,,Unknown,London,0,0,0,0,0,2,0,0.0,4,0,0,0,0,0.0,0,0,0
+07806235,active,ltd,2011-10-11,2017-08-08,2128,77110,Real Estate/Business,Wembley,0,0,0,0,0,1,0,0.0,21,4,6,0,0,0.0,1,0,0
+07815650,active,ltd,2011-10-19,2015-06-23,1343,71122,Real Estate/Business,Lancashire,0,0,0,0,0,2,0,0.0,8,0,1,0,0,0.0,0,0,0
+07839992,active,ltd,2011-11-09,2015-06-23,1322,82990,Public/Education/Health,London,0,0,0,0,0,1,0,0.0,9,2,2,0,0,0.0,0,0,0
+07842735,active,ltd,2011-11-10,,5293,45310,Construction/Transport,London,0,0,0,0,0,3,0,0.0,39,13,12,0,0,0.0,2,0,0
+07506342,active,ltd,2011-01-26,2015-08-18,1665,43390,Construction/Transport,Bromley,0,0,0,0,0,1,0,0.0,11,4,3,0,0,0.0,0,0,0
+07512353,active,ltd,2011-02-01,2015-07-07,1617,47530,Construction/Transport,Cheshire,0,0,0,0,0,3,2,0.667,14,3,3,0,0,0.0,0,0,0
+07515754,active,ltd,2011-02-03,2015-10-27,1727,74909,Real Estate/Business,London,0,0,0,0,0,4,3,0.75,25,4,4,0,0,0.0,0,0,0
+07538322,active,ltd,2011-02-22,2018-07-31,2716,96090,Other Services,London,0,0,0,0,0,7,6,0.857,39,6,7,0,0,0.0,1,0,0
+07538256,active,private-limited-guarant-nsc,2011-02-22,2015-06-16,1575,82912,Public/Education/Health,Dartford,0,0,0,0,0,2,0,0.0,11,2,3,0,0,0.0,0,0,0
+07539116,active,ltd,2011-02-22,2015-06-16,1575,71111,Real Estate/Business,London,0,1,0,0,0,4,4,1.0,17,2,3,1,1,0.0,0,0,0
+07584355,active,ltd,2011-03-30,2014-06-11,1169,29201,Manufacturing,West Midlands,1,0,1,0,0,3,1,0.333,18,1,1,0,0,0.0,0,0,0
+07589782,active,ltd,2011-04-04,2015-08-11,1590,56302,Retail/Trade,Warrington,0,0,0,0,0,2,1,0.5,16,3,3,0,0,0.0,0,0,0
+07593993,active,ltd,2011-04-06,2018-05-29,2610,70100,Real Estate/Business,Middx,0,1,0,0,0,3,0,0.0,26,8,6,1,1,0.0,1,0,0
+07605672,active,ltd,2011-04-15,,5502,74201,Real Estate/Business,Southampton,0,0,0,0,0,2,1,0.5,28,9,10,0,0,0.0,1,0,0
+07614219,active,ltd,2011-04-26,2014-04-01,1071,99999,Other Services,East Sussex,0,0,0,0,0,1,0,0.0,17,3,2,0,0,0.0,0,0,0
+07617209,active,ltd,2011-04-28,2015-03-03,1405,49410,Construction/Transport,Lincolnshire,0,0,0,0,0,1,0,0.0,12,2,1,0,0,0.0,0,0,0
+07886515,active,ltd,2011-12-19,2014-02-18,792,98000,Other Services,Bristol,0,0,0,0,0,1,0,0.0,6,0,1,0,0,0.0,0,0,0
+07901194,active,ltd,2012-01-09,2021-05-18,3417,90030,Other Services,London,0,0,0,0,0,3,1,0.333,31,8,8,0,0,0.0,1,0,0
+07909334,active,ltd,2012-01-13,2015-11-03,1390,56302,Retail/Trade,East Sussex,0,0,0,0,0,1,0,0.0,14,4,3,0,0,0.0,0,0,0
+07947245,active,ltd,2012-02-13,2015-07-14,1247,74990,Real Estate/Business,Middlesex,0,0,0,0,0,1,0,0.0,9,2,2,0,0,0.0,0,0,0
+07959995,active,ltd,2012-02-22,2015-04-07,1140,61900,Finance/Insurance,Cardiff,0,0,0,1,0,3,2,0.667,24,1,5,0,0,0.0,0,0,0
+SL008529,active,limited-partnership,2011-01-25,,5582,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008639,active,limited-partnership,2011-02-11,,5565,,Unknown,South Lanarkshire,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL008676,active,limited-partnership,2011-02-16,,5560,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+SL008612,active,limited-partnership,2011-02-10,,5566,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008643,active,limited-partnership,2011-02-11,,5565,,Unknown,South Lanarkshire,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL008624,active,limited-partnership,2011-02-11,,5565,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008601,active,limited-partnership,2011-02-09,,5567,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008750,active,limited-partnership,2011-03-09,,5539,,Unknown,Troon,0,0,0,0,1,0,0,0.0,13,0,2,0,0,0.0,1,0,0
+SL008583,active,limited-partnership,2011-02-09,,5567,,Unknown,South Lanarkshire,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008925,active,limited-partnership,2011-05-06,,5481,,Unknown,Rosyth,0,0,0,0,1,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+SL008745,active,limited-partnership,2011-03-07,,5541,,Unknown,South Lanarkshire,0,0,0,0,1,0,0,0.0,4,0,1,0,0,0.0,0,0,0
+SL008691,active,limited-partnership,2011-02-18,,5558,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,9,0,5,0,0,0.0,1,1,0
+SL008752,active,limited-partnership,2011-03-09,,5539,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008769,active,limited-partnership,2011-03-23,,5525,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008787,active,limited-partnership,2011-03-30,,5518,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008520,active,limited-partnership,2011-01-25,,5582,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008698,active,limited-partnership,2011-03-01,,5547,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL008834,active,limited-partnership,2011-04-07,,5510,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008855,active,limited-partnership,2011-04-19,,5498,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008651,active,limited-partnership,2011-02-16,,5560,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,10,0,3,0,0,0.0,0,0,0
+SL008531,active,limited-partnership,2011-01-25,,5582,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008654,active,limited-partnership,2011-02-16,,5560,,Unknown,South Lanarkshire,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL008839,active,limited-partnership,2011-04-07,,5510,,Unknown,Glasgow,0,0,0,0,1,0,0,0.0,4,0,1,0,0,0.0,1,0,0
+SL008764,active,limited-partnership,2011-03-18,,5530,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008799,active,limited-partnership,2011-04-06,,5511,,Unknown,Douglas,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL008805,active,limited-partnership,2011-04-06,,5511,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+SL008747,active,limited-partnership,2011-03-07,,5541,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,11,0,3,0,0,0.0,2,0,0
+SL008533,active,limited-partnership,2011-01-25,,5582,,Unknown,South Lanarkshire,0,0,0,0,1,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+SL008585,active,limited-partnership,2011-02-09,,5567,,Unknown,Edinburgh,0,0,0,0,1,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NI655439,active,ltd,2018-09-03,2019-12-17,470,56102,Retail/Trade,Belfast,0,0,0,0,0,1,0,0.0,5,0,0,0,0,0.0,1,0,0
+12549088,active,ltd,2020-04-06,,2223,70229,Real Estate/Business,Northumberland,0,0,0,0,0,2,1,0.5,17,3,3,0,0,0.0,1,0,0
+NI665319,active,ltd,2019-10-23,2020-09-22,335,93130,Other Services,Belfast,0,0,0,0,0,1,0,0.0,5,0,0,0,0,0.0,1,0,0
+NI668027,active,ltd,2020-02-27,,2262,93130,Other Services,Coleraine,0,0,0,0,0,1,0,0.0,8,3,4,0,0,0.0,1,0,0
+NI671744,active,ltd,2020-08-13,2022-09-27,775,45200,Construction/Transport,Derry,0,0,0,0,0,1,0,0.0,9,0,2,0,0,0.0,1,0,0
+NL000228,active,limited-partnership,2016-01-08,,3773,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000305,active,limited-partnership,2017-03-29,,3327,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000331,active,limited-partnership,2017-06-06,,3258,,Unknown,Birmingham,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000335,active,limited-partnership,2017-06-08,,3256,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000590,active,limited-partnership,2018-02-08,,3011,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000229,active,limited-partnership,2016-01-08,,3773,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000241,active,limited-partnership,2016-04-19,,3671,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000408,active,limited-partnership,2017-07-21,,3213,,Unknown,Lisburn,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+NL000312,active,limited-partnership,2017-04-11,,3314,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000403,active,limited-partnership,2017-07-14,,3220,,Unknown,"Belfast,",0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000357,active,limited-partnership,2017-06-29,,3235,,Unknown,County Down,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000378,active,limited-partnership,2017-07-14,,3220,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000468,active,limited-partnership,2017-08-16,,3187,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000479,active,limited-partnership,2017-08-21,,3182,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000633,active,limited-partnership,2018-03-13,,2978,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000385,active,limited-partnership,2017-07-14,,3220,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000310,active,limited-partnership,2017-04-10,,3315,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000328,active,limited-partnership,2017-05-26,,3269,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000532,active,limited-partnership,2017-10-26,,3116,,Unknown,Lisburn,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+NL000396,active,limited-partnership,2017-07-14,,3220,,Unknown,"Belfast,",0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000244,active,limited-partnership,2016-06-15,,3614,,Unknown,Bangor,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0,0,0
+NL000250,active,limited-partnership,2016-08-23,,3545,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000257,active,limited-partnership,2016-09-20,,3517,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000293,active,limited-partnership,2017-03-16,,3340,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000297,active,limited-partnership,2017-03-24,,3332,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000300,active,limited-partnership,2017-03-29,,3327,,Unknown,"Belfast,",0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000307,active,limited-partnership,2017-03-29,,3327,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000326,active,limited-partnership,2017-05-26,,3269,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000442,active,limited-partnership,2017-08-15,,3188,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000505,active,limited-partnership,2017-09-25,,3147,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000514,active,limited-partnership,2017-10-06,,3136,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000295,active,limited-partnership,2017-03-24,,3332,,Unknown,County Down,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000381,active,limited-partnership,2017-07-14,,3220,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000231,active,limited-partnership,2016-01-08,,3773,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000245,active,limited-partnership,2016-06-16,,3613,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000276,active,limited-partnership,2017-01-27,,3388,,Unknown,"Belfast,",0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000324,active,limited-partnership,2017-04-26,,3299,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000346,active,limited-partnership,2017-06-23,,3241,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000449,active,limited-partnership,2017-08-15,,3188,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000470,active,limited-partnership,2017-08-17,,3186,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000609,active,limited-partnership,2018-02-26,,2993,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000387,active,limited-partnership,2017-07-14,,3220,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000475,active,limited-partnership,2017-08-17,,3186,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000506,active,limited-partnership,2017-09-25,,3147,,Unknown,Co Antrim,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000527,active,limited-partnership,2017-10-24,,3118,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000543,active,limited-partnership,2017-11-20,,3091,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000243,active,limited-partnership,2016-05-18,,3642,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000260,active,limited-partnership,2016-10-17,,3490,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000270,active,limited-partnership,2016-11-21,,3455,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,7,0,0,0,0,0.0,0,0,0
+NL000327,active,limited-partnership,2017-05-26,,3269,,Unknown,County Down,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000382,active,limited-partnership,2017-07-14,,3220,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000369,active,limited-partnership,2017-07-14,,3220,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000351,active,limited-partnership,2017-06-23,,3241,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000359,active,limited-partnership,2017-06-30,,3234,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000361,active,limited-partnership,2017-06-30,,3234,,Unknown,County Down,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000617,active,limited-partnership,2018-03-07,,2984,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000414,active,limited-partnership,2017-08-03,,3200,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000484,active,limited-partnership,2017-08-21,,3182,,Unknown,"Belfast,",0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000499,active,limited-partnership,2017-09-19,,3153,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000537,active,limited-partnership,2017-11-07,,3104,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000628,active,limited-partnership,2018-03-13,,2978,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000568,active,limited-partnership,2018-01-08,,3042,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000591,active,limited-partnership,2018-02-08,,3011,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000412,active,limited-partnership,2017-08-02,,3201,,Unknown,Lisburn,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000755,active,limited-partnership,2019-12-04,,2347,,Unknown,"Co. Down,",0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000441,active,limited-partnership,2017-08-14,,3189,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000465,active,limited-partnership,2017-08-16,,3187,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000560,active,limited-partnership,2017-12-14,,3067,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000653,active,limited-partnership,2018-03-26,,2965,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000768,active,limited-partnership,2020-07-01,,2137,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000663,active,limited-partnership,2018-04-10,,2950,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000774,active,limited-partnership,2020-09-02,,2074,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000786,active,limited-partnership,2020-12-02,,1983,,Unknown,County Down,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000464,active,limited-partnership,2017-08-16,,3187,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000427,active,limited-partnership,2017-08-08,,3195,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000430,active,limited-partnership,2017-08-11,,3192,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000681,active,limited-partnership,2018-06-11,,2888,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000698,active,limited-partnership,2018-09-24,,2783,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000707,active,limited-partnership,2018-11-13,,2733,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000760,active,limited-partnership,2020-02-04,,2285,,Unknown,Lisburn,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000438,active,limited-partnership,2017-08-14,,3189,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000581,active,limited-partnership,2018-01-30,,3020,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000420,active,limited-partnership,2017-08-08,,3195,,Unknown,Co Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000424,active,limited-partnership,2017-08-08,,3195,,Unknown,"Belfast,",0,0,0,0,0,0,0,0.0,5,0,0,0,0,0.0,0,0,0
+NL000641,active,limited-partnership,2018-03-21,,2970,,Unknown,County Down,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,0,0,0
+NL000646,active,limited-partnership,2018-03-22,,2969,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000592,active,limited-partnership,2018-02-08,,3011,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000674,active,limited-partnership,2018-05-11,,2919,,Unknown,County Down,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000682,active,limited-partnership,2018-06-11,,2888,,Unknown,County Down,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,0,0,0
+NL000741,active,limited-partnership,2019-08-06,,2467,,Unknown,County Down,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000614,active,limited-partnership,2018-03-07,,2984,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000621,active,limited-partnership,2018-03-07,,2984,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000649,active,limited-partnership,2018-03-22,,2969,,Unknown,Northern Ireland,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000724,active,limited-partnership,2019-04-04,,2591,,Unknown,Dungannon,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NL000434,active,limited-partnership,2017-08-14,,3189,,Unknown,Belfast,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,0,0,0
+NI037958,dissolved,private-limited-guarant-nsc-limited-exemption,2000-02-25,2022-10-06,8259,93199,Other Services,Belfast,1,1,0,0,0,35,30,0.857,100,16,14,1,0,1.0,0,0,1
+NI038333,dissolved,ltd,2000-04-07,2017-12-21,6467,,Unknown,Belfast,1,1,1,0,0,7,5,0.714,49,6,6,5,3,0.4,0,0,1
+NI038547,dissolved,ltd,2000-05-10,2017-07-11,6271,68320,Finance/Insurance,Belfast,0,1,0,0,0,7,3,0.429,55,15,16,2,2,0.0,0,0,1
+NI038756,dissolved,private-limited-guarant-nsc,2000-06-09,2022-03-01,7935,96090,Other Services,Unknown,0,0,0,0,0,10,1,0.1,64,21,21,0,0,0.0,0,0,1
+NI038566,dissolved,ltd,2000-05-11,2020-09-22,7439,25110,Manufacturing,Belfast,0,1,0,0,0,12,9,0.75,78,22,18,1,1,0.0,1,1,1
+NI037738,dissolved,private-limited-guarant-nsc,2000-01-18,2016-05-10,5957,94990,Other Services,Magherafelt,1,0,1,0,0,100,67,0.67,100,5,5,0,0,0.0,0,0,1
+NI037752,dissolved,ltd,2000-01-19,2023-12-19,8735,74990,Real Estate/Business,Belfast,1,0,0,0,0,17,14,0.824,98,25,19,0,0,0.0,1,1,1
+NI038356,dissolved,ltd,2000-04-07,2015-12-10,5725,5190,Manufacturing,Co.Tyrone,1,1,1,0,0,4,3,0.75,54,11,11,2,1,0.5,0,0,1
+NI038594,dissolved,ltd,2000-05-15,2018-12-11,6784,41100,Construction/Transport,County Londonderry,0,1,0,0,0,6,4,0.667,72,19,18,14,13,0.071,1,1,1
+NI038561,dissolved,ltd,2000-05-11,2022-03-01,7964,41202,Construction/Transport,Unknown,0,1,0,0,0,5,2,0.4,65,21,22,4,4,0.0,1,0,1
+NI037918,dissolved,ltd,2000-02-17,2019-09-03,7138,41202,Construction/Transport,Armagh,1,1,1,0,0,3,0,0.0,48,12,12,7,5,0.286,0,0,1
+NI038142,dissolved,ltd,2000-03-15,2021-01-19,7615,79110,Real Estate/Business,Unknown,0,0,0,0,0,6,0,0.0,53,20,18,0,0,0.0,1,0,1
+NI037716,dissolved,ltd,2000-01-13,2015-07-01,5648,46180,Construction/Transport,Co. Down,1,1,1,0,0,9,7,0.778,43,10,9,1,1,0.0,0,0,1
+NI037783,dissolved,ltd,2000-01-22,2021-09-14,7906,99999,Other Services,Belfast,0,0,0,0,0,9,6,0.667,65,21,20,0,0,0.0,1,1,1
+NI037887,dissolved,ltd,2000-02-11,2014-12-12,5418,62090,Finance/Insurance,Belfast,0,0,0,0,0,4,2,0.5,42,13,13,0,0,0.0,0,0,1
+NI038451,dissolved,ltd,2000-04-27,2017-04-04,6186,41202,Construction/Transport,Co. Armagh,0,1,0,0,0,7,2,0.286,100,11,11,38,0,1.0,0,0,1
+NI038945,dissolved,ltd,2000-07-10,2016-08-02,5867,68209,Finance/Insurance,Enniskillen,1,1,1,0,0,3,0,0.0,88,15,14,26,26,0.0,0,0,1
+NI038403,dissolved,ltd,2000-04-18,2017-03-01,6161,5510,Manufacturing,Antrim,1,1,1,0,0,4,1,0.25,72,11,10,10,8,0.2,0,0,1
+NI038020,dissolved,ltd,2000-03-01,2018-11-13,6831,82990,Public/Education/Health,County Down,0,1,0,0,0,9,8,0.889,100,13,13,52,37,0.288,1,1,1
+NI038931,dissolved,ltd,2000-07-03,2021-06-22,7659,99999,Other Services,Belfast,0,1,0,0,0,3,0,0.0,56,19,20,1,1,0.0,3,0,1
+NI038632,dissolved,ltd,2000-05-19,2017-10-17,6360,41202,Construction/Transport,Antrim,0,0,0,0,0,3,0,0.0,42,17,16,0,0,0.0,0,0,1
+NI038864,dissolved,ltd,2000-06-22,2021-05-18,7635,74990,Real Estate/Business,Co Down,0,0,0,0,0,5,3,0.6,61,21,20,0,0,0.0,1,0,1
+NI038786,dissolved,ltd,2000-06-14,2018-02-27,6467,68209,Finance/Insurance,Antrim,0,1,0,0,0,11,9,0.818,95,17,16,9,0,1.0,0,0,1
+NI038439,dissolved,ltd,2000-04-28,2015-09-19,5622,5010,Manufacturing,County Antrim,1,1,1,0,0,4,3,0.75,41,10,10,1,1,0.0,0,0,1
+NI039033,dissolved,ltd,2000-08-01,2015-12-14,5613,,Unknown,Co. Antrim,1,1,1,0,0,5,2,0.4,46,7,8,1,1,0.0,0,0,1
+NI039275,dissolved,ltd,2000-09-12,2015-01-16,5239,68100,Finance/Insurance,Antrim,0,1,0,0,0,4,3,0.75,77,12,13,12,8,0.333,0,0,1
+NI038240,dissolved,ltd,2000-03-30,2018-09-15,6743,41201,Construction/Transport,Belfast,1,0,1,0,0,5,3,0.6,58,15,13,0,0,0.0,0,0,1
+NI037997,dissolved,ltd,2000-03-02,2019-01-08,6886,74990,Real Estate/Business,Co. Antrim,0,0,0,0,0,25,20,0.8,91,19,17,0,0,0.0,1,1,1
+NI038027,dissolved,ltd,2000-03-03,2015-04-10,5516,62020,Finance/Insurance,Co Fermanagh,0,0,0,0,0,2,1,0.5,43,16,13,0,0,0.0,0,0,1
+NI038209,dissolved,ltd,2000-03-27,2016-06-21,5930,47749,Construction/Transport,Belfast,0,1,0,0,0,10,6,0.6,77,17,17,2,0,1.0,0,0,1
+NI039132,dissolved,ltd,2000-08-10,2016-01-06,5627,,Unknown,Unknown,1,0,1,0,0,2,0,0.0,24,8,6,0,0,0.0,0,0,1
+NI039435,dissolved,ltd,2000-10-13,2016-10-18,5849,47110,Construction/Transport,Co Tyrone,0,1,0,0,0,4,3,0.75,55,15,16,2,1,0.5,0,0,1
+NI038013,dissolved,ltd,2000-03-01,2015-07-10,5609,79909,Real Estate/Business,Unknown,0,0,0,0,0,4,1,0.25,41,14,14,0,0,0.0,0,0,1
+NI038228,dissolved,ltd,2000-03-27,2019-05-14,6987,77320,Real Estate/Business,Lisburn,0,0,0,0,0,8,4,0.5,66,21,16,0,0,0.0,1,1,1
+NI038692,dissolved,ltd,2000-05-31,2015-07-17,5525,74901,Real Estate/Business,County Antrim,0,1,0,0,0,4,1,0.25,48,15,14,2,2,0.0,0,0,1
+NI038819,dissolved,ltd,2000-06-19,2016-05-24,5818,62020,Finance/Insurance,Belfast,0,0,0,0,0,6,3,0.5,47,14,15,0,0,0.0,0,0,1
+NI038656,dissolved,ltd,2000-05-24,2016-03-15,5774,,Unknown,Belfast,1,1,1,0,0,3,3,1.0,61,9,9,8,5,0.375,0,0,1
+NI037945,dissolved,ltd,2000-02-21,2024-03-07,8781,4545,Manufacturing,Belfast,1,1,1,0,0,3,3,1.0,95,13,11,11,11,0.0,0,0,1
+NI038111,dissolved,private-limited-guarant-nsc-limited-exemption,2000-03-16,2020-09-29,7502,55900,Retail/Trade,Co Tyrone,0,0,0,0,0,45,38,0.844,100,18,16,0,0,0.0,0,0,1
+NI038295,dissolved,ltd,2000-04-03,2016-06-24,5926,,Unknown,Belfast,1,1,1,0,0,5,4,0.8,34,5,0,7,7,0.0,0,0,1
+NI038917,dissolved,ltd,2000-07-03,2015-09-11,5548,68100,Finance/Insurance,Unknown,0,0,0,0,0,3,0,0.0,39,15,14,0,0,0.0,0,0,1
+NI038504,dissolved,ltd,2000-05-05,2016-12-13,6066,,Unknown,Co Fermanagh,1,1,0,0,0,4,1,0.25,48,9,9,8,5,0.375,0,0,1
+NI038301,dissolved,ltd,2000-04-03,2018-11-27,6812,41100,Construction/Transport,County Down,1,1,1,0,0,6,4,0.667,64,15,14,4,4,0.0,0,0,1
+NI039276,dissolved,ltd,2000-09-12,2014-09-12,5113,62012,Finance/Insurance,Belfast,0,0,0,0,0,3,2,0.667,39,12,12,0,0,0.0,0,0,1
+NI039332,dissolved,ltd,2000-09-28,2019-06-28,6847,4521,Manufacturing,Coleraine,1,1,1,0,0,5,5,1.0,53,9,10,5,5,0.0,0,0,1
+NI038314,dissolved,ltd,2000-04-07,2022-07-26,8145,68209,Finance/Insurance,Belfast,0,1,0,0,0,5,1,0.2,67,22,22,1,1,0.0,2,0,1
+NI037649,dissolved,ltd,2000-01-04,2017-01-06,6212,43210,Construction/Transport,Antrim,1,1,1,0,0,3,1,0.333,48,14,13,1,1,0.0,0,0,1
+NI038999,dissolved,ltd,2000-07-27,2015-10-27,5570,82990,Public/Education/Health,Unknown,0,0,0,0,0,9,6,0.667,59,15,14,0,0,0.0,0,0,1
+NI039511,dissolved,ltd,2000-10-25,2018-05-08,6404,99999,Other Services,Belfast,0,1,0,0,0,10,8,0.8,80,12,17,7,0,1.0,1,1,1
+NI039362,dissolved,ltd,2000-10-05,2019-04-23,6774,46470,Construction/Transport,Enniskillen,0,1,0,0,0,4,2,0.5,54,18,18,2,2,0.0,1,0,1
+NI038854,dissolved,ltd,2000-06-21,2016-08-02,5886,62090,Finance/Insurance,County Down,0,0,0,0,0,6,4,0.667,52,15,14,0,0,0.0,0,0,1
+NI039193,dissolved,ltd,2000-08-24,2019-02-07,6741,25990,Manufacturing,Belfast,1,1,0,0,0,4,1,0.25,77,15,15,2,2,0.0,0,0,1
+NI037665,dissolved,ltd,2000-01-13,2014-09-12,5356,,Unknown,Belfast,1,1,1,0,0,11,9,0.818,65,10,9,1,1,0.0,0,0,1
+NI037794,dissolved,ltd,2000-01-25,2020-06-06,7438,2710,Agriculture/Mining,Co Tyrone,1,1,1,0,0,4,0,0.0,47,12,9,2,0,1.0,0,0,1
+NI038462,dissolved,ltd,2000-04-27,2018-08-28,6697,68209,Finance/Insurance,Belfast,0,1,0,0,0,5,2,0.4,58,16,16,5,4,0.2,1,0,1
+NI039184,dissolved,ltd,2000-08-24,2016-02-02,5640,41100,Construction/Transport,Unknown,0,1,0,0,0,2,0,0.0,39,14,14,2,2,0.0,0,0,1
+NI039187,dissolved,ltd,2000-08-24,2016-10-28,5909,7487,Manufacturing,Carryduff,1,1,1,0,0,2,0,0.0,35,10,11,2,2,0.0,0,0,1
+NI039334,dissolved,ltd,2000-09-28,2018-10-16,6592,68100,Finance/Insurance,Lisburn,0,1,0,0,0,4,0,0.0,67,17,17,11,4,0.545,3,0,1
+NI039295,dissolved,ltd,2000-09-19,2018-02-27,6370,68209,Finance/Insurance,Antrim,0,1,0,0,0,14,12,0.857,100,17,16,15,0,1.0,1,1,1
+NI038237,dissolved,ltd,2000-03-30,2023-01-03,8314,33120,Manufacturing,Unknown,0,0,0,0,0,5,2,0.4,55,21,21,0,0,0.0,1,0,1
+NI038532,dissolved,private-limited-guarant-nsc-limited-exemption,2000-05-10,2015-09-11,5602,82990,Public/Education/Health,Unknown,0,0,0,0,0,28,21,0.75,87,15,15,0,0,0.0,0,0,1
+NI039251,dissolved,ltd,2000-09-07,2017-01-31,5990,62090,Finance/Insurance,Coleraine,0,0,0,0,0,5,1,0.2,51,16,16,0,0,0.0,2,0,1
+NI038925,dissolved,ltd,2000-07-03,2023-12-12,8562,49410,Construction/Transport,Armagh,0,0,0,0,0,5,3,0.6,66,21,22,0,0,0.0,1,0,1
+NI038901,dissolved,ltd,2000-06-27,2018-03-27,6482,68209,Finance/Insurance,Belfast,0,0,0,0,0,14,9,0.643,54,17,16,0,0,0.0,0,0,1
+NI038341,dissolved,ltd,2000-04-10,2022-12-12,8281,55100,Retail/Trade,Belfast,1,1,1,0,0,7,4,0.571,100,12,12,15,1,0.933,0,0,1
+NI038440,dissolved,ltd,2000-04-28,2022-06-07,8075,41202,Construction/Transport,Lisburn,0,0,0,0,0,5,2,0.4,61,21,20,0,0,0.0,2,0,1
+NI039189,dissolved,private-unlimited,2000-08-24,2020-12-01,7404,99999,Other Services,Co Down,0,0,0,0,0,5,2,0.4,38,0,20,0,0,0.0,2,0,1
+NI039192,dissolved,ltd,2000-08-24,2024-02-20,8580,68209,Finance/Insurance,Down,0,1,0,0,0,5,3,0.6,77,24,23,4,3,0.25,1,0,1
+NI039578,dissolved,ltd,2000-11-02,2021-04-20,7474,70100,Real Estate/Business,Limavady,0,0,0,0,0,10,5,0.5,63,19,20,0,0,0.0,1,1,1
+NI040318,dissolved,ltd,2001-03-02,2018-11-27,6479,46460,Construction/Transport,Belfast,0,0,0,0,0,9,7,0.778,62,18,16,0,0,0.0,3,1,1
+NI040811,dissolved,ltd,2001-05-14,2017-02-22,5763,,Unknown,Co Antrim,1,1,1,0,0,5,2,0.4,39,8,8,1,1,0.0,0,0,1
+NI041304,dissolved,ltd,2001-08-09,2023-08-15,8041,99999,Other Services,Newry,0,0,0,0,0,5,2,0.4,59,21,21,0,0,0.0,1,0,1
+NI042007,dissolved,ltd,2001-11-23,2020-10-20,6906,41100,Construction/Transport,Bangor,1,1,1,0,0,3,0,0.0,59,11,12,8,3,0.625,1,0,1
+NI039785,dissolved,private-limited-guarant-nsc-limited-exemption,2000-12-04,2023-05-16,8198,94990,Other Services,Belfast,0,0,0,0,0,32,27,0.844,100,17,17,0,0,0.0,4,0,1
+NI040093,dissolved,ltd,2001-01-31,2015-05-19,5221,41202,Construction/Transport,Belfast,1,0,0,0,0,4,2,0.5,43,11,10,0,0,0.0,0,0,1
+NI040346,dissolved,ltd,2001-03-06,2016-03-22,5495,41201,Construction/Transport,Co Down,0,1,0,0,0,4,2,0.5,41,14,13,1,1,0.0,0,0,1
+NI040734,dissolved,ltd,2001-05-02,2020-09-22,7083,99999,Other Services,Belfast,0,0,0,0,0,8,7,0.875,72,20,18,0,0,0.0,2,1,1
+NI041138,dissolved,ltd,2001-07-06,2016-08-23,5527,46342,Construction/Transport,Dungannon,0,0,0,0,0,6,3,0.5,46,13,14,0,0,0.0,0,0,1
+NI042381,dissolved,ltd,2002-01-31,2018-05-08,5941,43390,Construction/Transport,Co Derry,0,1,0,0,0,4,1,0.25,55,16,16,8,6,0.25,1,0,1
+NI042391,dissolved,ltd,2002-02-05,2022-01-05,7274,68100,Finance/Insurance,Antrim,1,1,0,0,0,9,7,0.778,70,15,15,6,6,0.0,1,0,1
+NI042518,dissolved,ltd,2002-02-15,2015-07-13,4896,32500,Manufacturing,Co Antrim,1,1,1,0,0,16,13,0.812,100,11,10,4,2,0.5,0,0,1
+NI042305,dissolved,ltd,2002-01-16,2022-08-30,7531,56102,Retail/Trade,Belfast,0,1,0,0,0,5,3,0.6,79,22,20,8,7,0.125,4,1,1
+NI039901,dissolved,ltd,2001-01-02,2020-09-24,7205,82990,Public/Education/Health,Co Antrim,1,1,0,0,0,3,0,0.0,56,17,17,4,4,0.0,1,0,1
+NI040128,dissolved,ltd,2001-02-05,2018-11-13,6490,08120,Manufacturing,Co. Armagh,0,1,0,0,0,2,0,0.0,51,18,17,2,2,0.0,1,0,1
+NI041246,dissolved,ltd,2001-07-30,2016-11-01,5573,38110,Manufacturing,Co Down,0,0,0,0,0,19,14,0.737,75,16,13,0,0,0.0,0,0,1
+NI041516,dissolved,ltd,2001-09-12,2016-05-03,5347,5143,Manufacturing,Co Tyrone,1,0,1,0,0,9,5,0.556,58,10,9,0,0,0.0,0,0,1
+NI041987,dissolved,private-limited-guarant-nsc-limited-exemption,2001-11-21,2018-10-18,6175,85600,Public/Education/Health,Co.Antrim,1,0,1,0,0,26,18,0.692,81,11,11,0,0,0.0,0,0,1
+NI042360,dissolved,ltd,2002-01-30,2022-02-08,7314,99999,Other Services,Holywood,0,0,0,0,0,7,5,0.714,59,19,19,0,0,0.0,1,1,1
+NI039558,dissolved,ltd,2000-11-01,2020-10-08,7281,4521,Manufacturing,Co. Down,1,1,1,0,0,5,2,0.4,49,10,10,3,3,0.0,0,0,1
+NI039767,dissolved,ltd,2000-12-01,2015-03-27,5229,7487,Manufacturing,Belfast,0,0,0,0,0,7,1,0.143,44,11,8,0,0,0.0,0,0,1
+NI040267,dissolved,ltd,2001-02-26,2016-07-05,5608,59113,Retail/Trade,Belfast,0,1,0,0,0,17,15,0.882,87,18,14,1,1,0.0,0,0,1
+NI041449,dissolved,ltd,2001-08-30,2022-01-18,7446,74100,Real Estate/Business,Co Antrim,0,0,0,0,0,2,0,0.0,49,20,20,0,0,0.0,2,0,1
+NI040817,dissolved,ltd,2001-05-14,2019-06-06,6597,68100,Finance/Insurance,Belfast,1,1,0,0,0,8,5,0.625,100,16,16,10,10,0.0,3,2,1
+NI041824,dissolved,ltd,2001-10-31,2015-04-24,4923,68320,Finance/Insurance,Co Antrim,0,0,0,0,0,4,2,0.5,40,11,13,0,0,0.0,0,0,1
+NI040160,dissolved,ltd,2001-02-12,2021-01-05,7267,41100,Construction/Transport,Co. Antrim,0,1,0,0,0,5,3,0.6,68,19,16,3,2,0.333,1,0,1
+NI040743,dissolved,ltd,2001-05-03,2018-01-02,6088,74990,Real Estate/Business,Belfast,0,0,0,0,0,6,1,0.167,50,15,16,0,0,0.0,0,0,1
+NI040969,dissolved,ltd,2001-06-11,2016-02-02,5349,,Unknown,Portrush,0,0,0,0,0,4,2,0.5,13,0,0,0,0,0.0,0,0,1
+NI041463,dissolved,ltd,2001-08-31,2019-04-22,6443,70229,Real Estate/Business,Belfast,1,1,0,0,0,5,3,0.6,56,16,14,1,1,0.0,1,0,1
+NI042304,dissolved,ltd,2002-01-16,2017-10-17,5753,,Unknown,Belfast,1,0,0,0,0,5,2,0.4,2,0,0,0,0,0.0,0,0,1
+NI040289,dissolved,ltd,2001-02-27,2015-05-10,5185,,Unknown,Cookstown,1,1,0,0,0,4,2,0.5,36,8,7,2,2,0.0,0,0,1
+NI058130,dissolved,ltd,2006-02-13,2021-08-24,5671,41100,Construction/Transport,Enniskillen,0,1,0,0,0,4,1,0.25,35,14,14,2,2,0.0,2,0,1
+NI058504,dissolved,ltd,2006-03-16,2015-06-09,3372,46431,Construction/Transport,Bangor,1,1,0,0,0,5,1,0.2,35,5,6,1,1,0.0,0,0,1
+NI059252,dissolved,ltd,2006-05-08,2016-08-09,3746,7032,Manufacturing,Co Antrim,0,1,0,0,0,7,3,0.429,52,5,5,10,8,0.2,0,0,1
+NI059357,dissolved,ltd,2006-05-16,2015-03-16,3226,,Unknown,Belfast,1,1,0,0,0,8,3,0.375,36,1,2,2,2,0.0,0,0,1
+NI057987,dissolved,ltd,2006-01-27,2018-08-14,4582,47190,Construction/Transport,Co Tyrone,0,0,0,0,0,5,2,0.4,32,13,12,0,0,0.0,2,0,1
+NI058950,dissolved,ltd,2006-04-11,2015-12-29,3549,08120,Manufacturing,Co Antrim,0,0,0,0,0,9,5,0.556,37,8,9,0,0,0.0,0,0,1
+NI058905,dissolved,ltd,2006-04-07,2023-12-13,6459,42990,Construction/Transport,Co. Antrim,1,1,0,0,0,7,5,0.714,65,16,16,5,5,0.0,2,0,1
+NI057831,dissolved,ltd,2006-01-17,2019-05-28,4879,99999,Other Services,Belfast,0,0,0,0,0,5,3,0.6,37,13,13,0,0,0.0,1,0,1
+NI058103,dissolved,ltd,2006-02-09,2016-04-12,3715,68100,Finance/Insurance,Belfast,1,1,1,0,0,6,3,0.5,35,7,8,4,4,0.0,0,0,1
+NI058107,dissolved,ltd,2006-02-09,2022-09-13,6060,68100,Finance/Insurance,Belfast,0,1,0,0,0,7,6,0.857,51,15,16,1,1,0.0,1,0,1
+NI058238,dissolved,ltd,2006-02-22,2022-06-02,5944,56103,Retail/Trade,Belfast,1,0,0,0,0,4,3,0.75,39,12,11,0,0,0.0,1,0,1
+NI057770,dissolved,ltd,2006-01-12,2023-12-05,6536,41202,Construction/Transport,Omagh,0,0,0,0,0,6,5,0.833,53,18,17,0,0,0.0,1,0,1
+NI058258,dissolved,ltd,2006-02-22,2016-06-21,3772,45112,Construction/Transport,Ballymena,0,0,0,0,0,4,2,0.5,25,9,7,0,0,0.0,0,0,1
+NI058858,dissolved,ltd,2006-04-05,2015-05-29,3341,74100,Real Estate/Business,Co Down,0,0,0,0,0,6,5,0.833,33,9,9,0,0,0.0,0,0,1
+NI059541,dissolved,ltd,2006-06-02,2014-10-24,3066,62020,Finance/Insurance,Co. Tyrone,0,0,0,0,0,4,3,0.75,25,6,7,0,0,0.0,0,0,1
+NI059490,dissolved,ltd,2006-05-26,2015-06-19,3311,41100,Construction/Transport,Co Down,0,0,0,0,0,6,4,0.667,41,8,8,0,0,0.0,0,0,1
+NI058819,dissolved,ltd,2006-04-03,2015-05-22,3336,64999,Finance/Insurance,County Fermanagh,0,0,0,0,0,5,3,0.6,29,10,8,0,0,0.0,0,0,1
+NI058978,dissolved,ltd,2006-04-13,2017-05-16,4051,68209,Finance/Insurance,County Down,0,1,0,0,0,4,1,0.25,36,10,10,1,1,0.0,0,0,1
+NI059427,dissolved,private-limited-guarant-nsc-limited-exemption,2006-05-23,2017-06-13,4039,96090,Other Services,Co Antrim,0,0,0,0,0,5,0,0.0,34,11,10,0,0,0.0,0,0,1
+NI060444,dissolved,ltd,2006-08-08,2019-11-13,4845,7020,Manufacturing,Belfast,1,1,1,0,0,5,3,0.6,41,4,5,4,4,0.0,0,0,1
+NI058768,dissolved,ltd,2006-03-30,2020-09-25,5293,42990,Construction/Transport,County Tyrone,1,0,0,0,0,4,2,0.5,32,7,7,0,0,0.0,0,0,1
+NI059119,dissolved,ltd,2006-04-27,2023-01-19,6111,56101,Retail/Trade,Belfast,1,1,0,0,0,6,4,0.667,68,14,13,2,2,0.0,1,0,1
+NI059875,dissolved,ltd,2006-06-23,2023-10-31,6339,41202,Construction/Transport,Co. Armagh,0,0,0,0,0,6,1,0.167,54,16,17,0,0,0.0,0,0,1
+NI058139,dissolved,ltd,2006-02-14,2018-01-30,4368,41100,Construction/Transport,Magherafelt,0,1,0,0,0,5,2,0.4,36,10,11,5,4,0.2,2,0,1
+NI059259,dissolved,ltd,2006-05-08,2015-01-02,3161,41100,Construction/Transport,Co. Armagh,0,1,0,0,0,6,5,0.833,35,8,7,2,2,0.0,0,0,1
+NI058326,dissolved,ltd,2006-03-01,2021-02-05,5455,5118,Manufacturing,Belfast,1,0,1,0,0,6,4,0.667,40,5,4,0,0,0.0,0,0,1
+NI060100,dissolved,ltd,2006-07-10,2019-12-19,4910,43290,Construction/Transport,County Antrim,1,1,0,0,0,6,5,0.833,38,7,8,1,1,0.0,0,0,1
+NI057714,dissolved,ltd,2006-01-03,2019-05-07,4872,41202,Construction/Transport,Belfast,0,0,0,0,0,4,2,0.5,39,13,12,0,0,0.0,2,0,1
+NI058187,dissolved,ltd,2006-02-17,2017-03-14,4043,01450,Agriculture/Mining,Co Down,0,1,0,0,0,5,2,0.4,30,10,10,2,2,0.0,0,0,1
+NI059464,dissolved,ltd,2006-05-25,2021-01-26,5360,99999,Other Services,Belfast,0,0,0,0,0,13,10,0.769,60,14,14,0,0,0.0,2,2,1
+NI058984,dissolved,ltd,2006-04-13,2023-06-13,6270,41100,Construction/Transport,Belfast,0,1,0,0,0,8,5,0.625,78,16,17,10,0,1.0,2,0,1
+NI059870,dissolved,ltd,2006-06-22,2019-09-07,4825,7011,Manufacturing,Craigavon,1,1,1,0,0,7,4,0.571,30,4,3,8,8,0.0,0,0,1
+NI060358,dissolved,ltd,2006-08-03,2014-11-21,3032,23700,Manufacturing,Co Down,0,0,0,0,0,4,2,0.5,23,9,7,0,0,0.0,0,0,1
+NI059234,dissolved,ltd,2006-05-05,2019-02-23,4677,35110,Manufacturing,Antrim,1,1,0,0,0,12,6,0.5,84,10,11,3,3,0.0,0,0,1
+NI059220,dissolved,ltd,2006-05-04,2024-03-26,6536,74909,Real Estate/Business,Antrim,0,0,0,0,0,7,5,0.714,59,20,17,0,0,0.0,2,0,1
+NI059364,dissolved,ltd,2006-05-17,2015-09-25,3418,68209,Finance/Insurance,Belfast,0,0,0,0,0,10,9,0.9,40,7,8,0,0,0.0,0,0,1
+NI058574,dissolved,ltd,2006-03-21,2015-11-21,3532,,Unknown,Belfast,1,0,1,0,0,4,2,0.5,17,4,2,0,0,0.0,0,0,1
+NI058970,dissolved,ltd,2006-04-12,2014-12-05,3159,4521,Manufacturing,Co Antrim,1,1,1,0,0,3,1,0.333,100,5,5,34,6,0.824,0,0,1
+NI058350,dissolved,ltd,2006-03-03,2015-01-14,3239,,Unknown,Co Armagh,1,1,0,0,0,5,2,0.4,16,2,0,2,2,0.0,0,0,1
+NI060418,dissolved,ltd,2006-08-07,2020-10-06,5174,68100,Finance/Insurance,Londonderry,0,0,0,0,0,8,6,0.75,49,15,12,0,0,0.0,1,0,1
+NI058624,dissolved,ltd,2006-03-23,2018-01-25,4326,4521,Manufacturing,Antrim,1,1,1,0,0,3,1,0.333,22,5,5,1,1,0.0,0,0,1
+NI060067,dissolved,ltd,2006-07-05,2015-01-30,3131,41100,Construction/Transport,Co Derry,0,1,0,0,0,5,0,0.0,24,7,7,1,1,0.0,0,0,1
+NI059113,dissolved,ltd,2006-04-27,2021-03-23,5444,41100,Construction/Transport,County Antrim,1,1,1,0,0,4,2,0.5,51,14,13,4,4,0.0,1,1,1
+NI059425,dissolved,ltd,2006-05-23,2020-02-11,5012,47421,Construction/Transport,Dungannon,0,1,0,0,0,7,6,0.857,55,13,14,1,0,1.0,1,1,1
+NI058977,dissolved,ltd,2006-04-13,2015-06-12,3347,42990,Construction/Transport,Co Down,0,1,0,0,0,5,3,0.6,35,8,9,4,4,0.0,0,0,1
+NI059921,dissolved,ltd,2006-06-27,2021-06-08,5460,01500,Agriculture/Mining,County Down,0,0,0,0,0,5,2,0.4,44,16,14,0,0,0.0,2,0,1
+NI059922,dissolved,ltd,2006-06-28,2015-08-28,3348,3663,Agriculture/Mining,Dungannon,1,0,1,0,0,5,2,0.4,24,4,3,0,0,0.0,0,0,1
+NI058526,dissolved,ltd,2006-03-20,2021-12-21,5755,70100,Real Estate/Business,Co Antrim,0,0,0,0,0,18,15,0.833,89,16,15,0,0,0.0,2,2,1
+NI058543,dissolved,ltd,2006-03-20,2023-03-21,6210,56101,Retail/Trade,Belfast,1,0,0,0,0,5,4,0.8,35,10,8,0,0,0.0,0,0,1
+NI058981,dissolved,ltd,2006-04-13,2015-04-17,3291,68100,Finance/Insurance,County Down,0,0,0,0,0,6,5,0.833,32,7,8,0,0,0.0,0,0,1
+NI058373,dissolved,ltd,2006-03-07,2019-03-26,4767,35110,Manufacturing,Belfast,0,0,0,0,0,20,17,0.85,74,11,13,0,0,0.0,1,1,1
+NI060407,dissolved,ltd,2006-08-07,2016-11-08,3746,68100,Finance/Insurance,Unknown,0,1,0,0,0,7,5,0.714,43,9,10,2,2,0.0,0,0,1
+NI057962,dissolved,ltd,2006-01-25,2016-01-12,3639,49410,Construction/Transport,Belfast,0,0,0,0,0,5,5,1.0,34,6,7,0,0,0.0,0,0,1
+NI058715,dissolved,ltd,2006-03-29,2023-09-19,6383,47910,Construction/Transport,Ballyclare,0,0,0,0,0,4,2,0.5,62,17,17,0,0,0.0,2,0,1
+NI058538,dissolved,ltd,2006-03-20,2019-08-06,4887,71111,Real Estate/Business,County Londonderry,0,1,0,0,0,5,3,0.6,41,13,12,1,1,0.0,1,0,1
+NI059613,dissolved,ltd,2006-06-07,2019-11-16,4910,41100,Construction/Transport,County Armagh,1,1,0,0,0,8,8,1.0,50,6,8,3,3,0.0,0,0,1
+NI058228,dissolved,ltd,2006-02-21,2016-01-07,3607,47799,Construction/Transport,Belfast,1,1,1,0,0,6,5,0.833,44,7,7,1,1,0.0,0,0,1
+NI058668,dissolved,ltd,2006-03-27,2022-06-14,5923,99999,Other Services,Belfast,0,0,0,0,0,4,2,0.5,45,15,16,0,0,0.0,1,0,1
+NI057927,dissolved,ltd,2006-01-24,2016-06-22,3802,70100,Real Estate/Business,Antrim,1,1,1,0,0,26,21,0.808,100,8,8,4,3,0.25,0,0,1
+NI058841,dissolved,ltd,2006-04-05,2017-02-11,3965,7420,Manufacturing,County Down,1,0,1,0,0,3,2,0.667,18,4,5,0,0,0.0,0,0,1
+NI058164,dissolved,ltd,2006-02-15,2017-05-16,4108,56103,Retail/Trade,Co Antrim,0,1,0,0,0,7,4,0.571,36,11,10,1,1,0.0,0,0,1
+NI058347,dissolved,ltd,2006-03-03,2014-11-21,3185,49410,Construction/Transport,Co Tyrone,0,0,0,0,0,5,2,0.4,26,7,8,0,0,0.0,0,0,1
+NI059523,dissolved,ltd,2006-06-02,2020-09-29,5233,70100,Real Estate/Business,Dungannon,0,1,0,0,0,11,8,0.727,100,7,13,13,0,1.0,1,1,1
+NI058435,dissolved,ltd,2006-03-14,2015-09-19,3476,93290,Other Services,Unknown,1,0,1,0,0,5,3,0.6,29,8,7,0,0,0.0,0,0,1
+NI059976,dissolved,ltd,2006-06-29,2015-03-30,3196,7487,Manufacturing,Belfast,1,1,0,0,0,8,4,0.5,33,5,3,1,1,0.0,0,0,1
+NI060316,dissolved,ltd,2006-07-28,2014-09-19,2975,68100,Finance/Insurance,County Down,1,0,1,0,0,6,4,0.667,25,6,6,0,0,0.0,0,0,1
+NI058359,dissolved,ltd,2006-03-03,2018-08-07,4540,41202,Construction/Transport,Co Down,0,1,0,0,0,4,2,0.5,39,11,12,4,3,0.25,1,0,1
+NI060414,dissolved,ltd,2006-08-07,2023-12-12,6336,46750,Construction/Transport,Belfast,0,1,0,0,0,8,5,0.625,66,16,17,1,1,0.0,3,1,1
+NI060447,dissolved,ltd,2006-08-09,2019-12-13,4874,68100,Finance/Insurance,Co Tyrone,1,1,0,0,0,6,3,0.5,39,8,9,4,4,0.0,0,0,1
+NI058608,dissolved,ltd,2006-03-23,2014-12-12,3186,68100,Finance/Insurance,Co Fermanagh,0,1,0,0,0,9,6,0.667,39,7,8,3,3,0.0,0,0,1
+NI058829,dissolved,ltd,2006-04-04,2014-11-21,3153,68100,Finance/Insurance,Co Londonderry,0,1,0,0,0,7,2,0.286,42,7,7,5,4,0.2,0,0,1
+NI059246,dissolved,ltd,2006-05-08,2023-02-28,6140,78109,Real Estate/Business,Belfast,1,0,0,0,0,7,4,0.571,49,13,12,0,0,0.0,2,0,1
+NI059951,dissolved,ltd,2006-06-28,2018-04-24,4318,28490,Manufacturing,Co Tyrone,0,0,0,0,0,3,1,0.333,31,10,11,0,0,0.0,1,0,1
+NI058838,dissolved,ltd,2006-04-04,2015-11-17,3514,99999,Other Services,Portadown,0,0,0,0,0,4,1,0.25,23,8,8,0,0,0.0,0,0,1
+NI060235,dissolved,ltd,2006-07-21,2022-04-05,5737,41100,Construction/Transport,Belfast,1,1,1,0,0,3,1,0.333,30,6,9,1,1,0.0,0,0,1
+NI059823,dissolved,ltd,2006-06-21,2018-01-09,4220,68320,Finance/Insurance,Coleraine,0,1,0,0,0,5,2,0.4,37,12,11,2,0,1.0,1,1,1
+NI059298,dissolved,ltd,2006-05-09,2018-07-24,4459,99999,Other Services,Co. Down,0,0,0,0,0,5,2,0.4,31,9,10,0,0,0.0,0,0,1
+NI060170,dissolved,ltd,2006-07-18,2019-09-10,4802,41100,Construction/Transport,Belfast,1,1,1,0,0,11,9,0.818,56,13,13,4,3,0.25,2,1,1
+NI060141,dissolved,ltd,2006-07-11,2023-06-27,6195,82990,Public/Education/Health,Co Tyrone,0,0,0,0,0,3,1,0.333,42,16,16,0,0,0.0,1,0,1
+NI060205,dissolved,ltd,2006-07-19,2021-03-23,5361,49410,Construction/Transport,Belfast,1,0,0,0,0,3,2,0.667,40,14,12,0,0,0.0,1,0,1
+NI058752,dissolved,ltd,2006-03-30,2016-05-17,3701,46130,Construction/Transport,County Down,0,0,0,0,0,4,3,0.75,33,8,9,0,0,0.0,0,0,1
+NI060222,dissolved,ltd,2006-07-21,2016-07-19,3651,4521,Manufacturing,Belfast,1,0,1,0,0,9,4,0.444,27,5,4,0,0,0.0,0,0,1
+NI059629,dissolved,ltd,2006-06-07,2017-11-07,4171,32990,Manufacturing,Co Fermanagh,0,0,0,0,0,5,2,0.4,32,11,10,0,0,0.0,0,0,1
+NI059798,dissolved,ltd,2006-06-16,2014-10-24,3052,7011,Manufacturing,Unknown,1,1,1,0,0,7,4,0.571,47,4,4,3,3,0.0,0,0,1
+NI059307,dissolved,ltd,2006-05-09,2015-03-04,3221,4531,Manufacturing,Co Tyrone,1,1,0,0,0,5,4,0.8,23,5,5,1,1,0.0,0,0,1
+NI059302,dissolved,ltd,2006-05-09,2023-05-28,6228,10910,Manufacturing,Belfast,1,0,0,0,0,3,1,0.333,46,14,14,0,0,0.0,5,0,1
+NI059759,dissolved,ltd,2006-06-15,2022-07-26,5885,01130,Agriculture/Mining,Co Tyrone,0,0,0,0,0,4,1,0.25,38,15,15,0,0,0.0,2,0,1
+NI059787,dissolved,ltd,2006-06-16,2018-11-27,4547,41100,Construction/Transport,Co Antrim,1,1,0,0,0,7,4,0.571,54,9,10,6,6,0.0,0,0,1
+NI060369,dissolved,ltd,2006-08-03,2016-08-06,3656,,Unknown,Co Armagh,1,0,1,0,0,3,1,0.333,7,0,1,0,0,0.0,0,0,1
+NI058756,dissolved,ltd,2006-03-31,2016-09-13,3819,87300,Public/Education/Health,Unknown,0,1,0,0,0,6,5,0.833,41,12,10,1,1,0.0,0,0,1
+NI060155,dissolved,ltd,2006-07-18,2022-03-01,5705,47110,Construction/Transport,Belfast,0,1,0,0,0,13,9,0.692,82,16,14,7,0,1.0,3,1,1
+NI059059,dissolved,ltd,2006-04-24,2016-08-16,3767,70229,Real Estate/Business,Belfast,0,0,0,0,0,5,2,0.4,35,11,10,0,0,0.0,0,0,1
+NI059042,dissolved,ltd,2006-04-21,2014-12-12,3157,7011,Manufacturing,County Down,1,1,0,0,0,4,3,0.75,36,4,5,5,5,0.0,0,0,1
+NI059089,dissolved,ltd,2006-04-25,2023-01-25,6119,96090,Other Services,Belfast,1,0,0,0,0,4,1,0.25,43,14,15,0,0,0.0,2,0,1
+NI059971,dissolved,ltd,2006-06-29,2017-02-22,3891,,Unknown,County Armagh,1,1,1,0,0,6,5,0.833,23,1,2,2,2,0.0,0,0,1
+NI060024,dissolved,ltd,2006-07-04,2016-07-22,3671,46120,Construction/Transport,County Armagh,1,1,0,0,0,6,5,0.833,37,9,8,1,1,0.0,0,0,1
+NI060983,dissolved,ltd,2006-09-25,2023-03-29,6029,46470,Construction/Transport,Co. Antrim,1,1,0,0,0,4,2,0.5,67,15,12,9,1,0.889,1,0,1
+NI062174,dissolved,ltd,2006-12-12,2016-05-10,3437,41100,Construction/Transport,Co Down,0,0,0,0,0,7,4,0.571,31,8,8,0,0,0.0,0,0,1
+NI062223,dissolved,ltd,2006-12-13,2017-02-21,3723,99999,Other Services,Co Derry,0,0,0,0,0,6,2,0.333,29,8,9,0,0,0.0,0,0,1
+NI061254,dissolved,ltd,2006-10-12,2015-04-17,3109,41100,Construction/Transport,Belfast,0,0,0,0,0,4,1,0.25,22,7,7,0,0,0.0,0,0,1
+NI605849,dissolved,ltd,2011-01-21,2023-05-16,4498,43390,Construction/Transport,Co. Tyrone,0,0,0,0,0,2,1,0.5,30,11,11,0,0,0.0,1,0,1
+NI605889,dissolved,ltd,2011-01-24,2021-01-26,3655,69102,Finance/Insurance,Belfast,0,0,0,0,0,6,5,0.833,36,11,9,0,0,0.0,1,0,1
+NI606051,dissolved,private-limited-guarant-nsc,2011-02-04,2015-10-27,1726,58110,Retail/Trade,Derry,0,0,0,0,0,4,0,0.0,13,5,4,0,0,0.0,0,0,1
+NI605960,dissolved,ltd,2011-01-28,2017-06-08,2323,99999,Other Services,Belfast,1,0,0,0,0,1,0,0.0,16,4,4,0,0,0.0,0,0,1
+NI605972,dissolved,ltd,2011-01-31,2020-01-07,3263,56103,Retail/Trade,Down,0,0,0,0,0,1,1,1.0,18,5,6,0,0,0.0,1,0,1
+NI606007,dissolved,ltd,2011-02-02,2014-09-19,1325,99999,Other Services,County Down,0,0,0,0,0,3,0,0.0,8,2,2,0,0,0.0,0,0,1
+NI606029,dissolved,ltd,2011-02-03,2021-04-13,3722,93199,Other Services,Co. Down,0,0,0,0,0,3,1,0.333,27,10,9,0,0,0.0,1,0,1
+NI606048,dissolved,ltd,2011-02-04,2021-10-15,3906,43210,Construction/Transport,Derry,1,0,0,0,0,3,2,0.667,29,8,6,0,0,0.0,1,0,1
+NI605907,dissolved,ltd,2011-01-25,2022-09-15,4251,82990,Public/Education/Health,Belfast,1,1,0,0,0,2,0,0.0,48,10,10,5,5,0.0,2,0,1
+NI605943,dissolved,ltd,2011-01-27,2015-05-22,1576,82990,Public/Education/Health,Belfast,0,0,0,0,0,1,0,0.0,11,2,3,0,0,0.0,0,0,1
+NI605864,dissolved,ltd,2011-01-21,2017-09-16,2430,47210,Construction/Transport,Belfast,1,0,0,0,0,2,0,0.0,18,5,4,0,0,0.0,0,0,1
+NI605882,dissolved,ltd,2011-01-24,2014-12-19,1425,70229,Real Estate/Business,Northern Ireland,0,0,0,0,0,1,0,0.0,12,2,3,0,0,0.0,0,0,1
+NI606040,dissolved,ltd,2011-02-04,2014-09-19,1323,85100,Public/Education/Health,Co. Down,0,0,0,0,0,1,0,0.0,7,2,2,0,0,0.0,0,0,1
+NI605749,dissolved,ltd,2011-01-13,2015-05-15,1583,,Unknown,Belfast,0,0,0,0,0,4,3,0.75,18,0,0,0,0,0.0,0,0,1
+NI606086,dissolved,ltd,2011-02-08,2017-01-31,2184,43290,Construction/Transport,Craigavon,0,0,0,0,0,3,1,0.333,17,4,3,0,0,0.0,0,0,1
+NI606125,dissolved,ltd,2011-02-11,2016-04-12,1887,49410,Construction/Transport,Co. Down,0,0,0,0,0,1,0,0.0,12,3,4,0,0,0.0,0,0,1
+NI605698,dissolved,ltd,2011-01-10,2017-11-28,2514,66120,Finance/Insurance,County Down,0,0,0,0,0,2,1,0.5,20,8,6,0,0,0.0,1,0,1
+NI606343,dissolved,ltd,2011-02-25,2015-04-03,1498,74100,Real Estate/Business,Antrim,0,0,0,0,0,1,0,0.0,9,2,3,0,0,0.0,0,0,1
+NI606488,dissolved,ltd,2011-03-08,2015-05-01,1515,32990,Manufacturing,Belfast,0,0,0,0,0,2,0,0.0,9,2,3,0,0,0.0,0,0,1
+NI606337,dissolved,ltd,2011-02-25,2014-10-17,1330,81100,Public/Education/Health,County Antrim,0,0,0,0,0,1,0,0.0,8,2,2,0,0,0.0,0,0,1
+NI606564,dissolved,ltd,2011-03-11,2019-03-26,2937,46719,Construction/Transport,Belfast,0,0,0,0,0,2,1,0.5,26,6,7,0,0,0.0,1,0,1
+NI605793,dissolved,ltd,2011-01-18,2018-04-24,2653,86900,Public/Education/Health,Co. Antrim,0,0,0,0,0,3,2,0.667,20,6,6,0,0,0.0,1,0,1
+NI606241,dissolved,ltd,2011-02-21,2016-05-17,1912,85520,Public/Education/Health,Belfast,0,0,0,0,0,5,2,0.4,20,4,5,0,0,0.0,0,0,1
+NI605788,dissolved,ltd,2011-01-18,2017-06-06,2331,39000,Manufacturing,Co. Armagh,0,0,0,0,0,2,1,0.5,24,2,5,0,0,0.0,0,0,1
+NI606162,dissolved,ltd,2011-02-14,2015-04-10,1516,41202,Construction/Transport,Co. Armagh,0,0,0,0,0,2,1,0.5,13,3,3,0,0,0.0,0,0,1
+NI606350,dissolved,ltd,2011-02-28,2015-07-10,1593,70229,Real Estate/Business,Belfast,0,0,0,0,0,2,1,0.5,15,4,4,0,0,0.0,0,0,1
+NI606463,dissolved,ltd,2011-03-04,2016-05-17,1901,96090,Other Services,Belfast,0,0,0,0,0,1,0,0.0,11,3,4,0,0,0.0,0,0,1
+NI606534,dissolved,ltd,2011-03-09,2020-09-22,3485,47910,Construction/Transport,Londonderry,0,0,0,0,0,1,0,0.0,29,8,8,0,0,0.0,1,0,1
+NI605902,dissolved,ltd,2011-01-25,2019-01-08,2905,86900,Public/Education/Health,Belfast,0,1,0,0,0,10,6,0.6,53,8,7,5,0,1.0,1,1,1
+NI606586,dissolved,ltd,2011-03-11,2018-08-07,2706,60200,Finance/Insurance,Antrim,0,0,0,0,0,5,0,0.0,20,7,7,0,0,0.0,0,0,1
+NI605713,dissolved,ltd,2011-01-11,2019-06-15,3077,56302,Retail/Trade,Co. Antrim,1,0,0,0,0,1,0,0.0,14,2,3,0,0,0.0,0,0,1
+NI606209,dissolved,ltd,2011-02-17,2020-10-27,3540,47290,Construction/Transport,Co Antrim,0,0,0,0,0,3,0,0.0,29,9,9,0,0,0.0,2,0,1
+NI605818,dissolved,private-limited-guarant-nsc,2011-01-19,2020-09-22,3534,96090,Other Services,Down,0,0,0,0,0,2,1,0.5,22,8,7,0,0,0.0,1,0,1
+NI606172,dissolved,ltd,2011-02-15,2018-10-23,2807,99999,Other Services,Co Derry,0,0,0,0,0,3,1,0.333,24,7,6,0,0,0.0,2,0,1
+NI606189,dissolved,ltd,2011-02-15,2015-09-04,1662,47910,Construction/Transport,Dungannon,0,0,0,0,0,1,1,1.0,11,0,1,0,0,0.0,0,0,1
+NI606229,dissolved,private-limited-guarant-nsc-limited-exemption,2011-02-18,2017-11-07,2454,90030,Other Services,Ballymena,0,0,0,0,0,4,0,0.0,19,6,5,0,0,0.0,0,0,1
+NI605722,dissolved,ltd,2011-01-12,2018-09-18,2806,62090,Finance/Insurance,Antrim,0,0,0,0,0,1,0,0.0,17,6,7,0,0,0.0,1,0,1
+NI605678,dissolved,ltd,2011-01-07,2020-10-20,3574,41100,Construction/Transport,Enniskillen,0,0,0,0,0,2,0,0.0,21,8,8,0,0,0.0,1,0,1
+NI606455,dissolved,ltd,2011-03-04,2019-09-10,3112,69202,Finance/Insurance,Northern Ireland,0,0,0,0,0,4,1,0.25,21,6,7,0,0,0.0,3,0,1
+NI606569,dissolved,ltd,2011-03-11,2022-12-13,4295,45190,Construction/Transport,Down,0,0,0,0,0,3,0,0.0,25,10,11,0,0,0.0,2,0,1
+NI606322,dissolved,ltd,2011-02-24,2017-08-01,2350,01500,Agriculture/Mining,County Tyrone,0,0,0,0,0,4,2,0.5,25,6,5,0,0,0.0,0,0,1
+NI606368,dissolved,ltd,2011-02-28,2021-01-05,3599,47710,Construction/Transport,Larne,0,0,0,0,0,2,1,0.5,29,17,8,0,0,0.0,1,0,1
+NI605792,dissolved,ltd,2011-01-18,2023-11-28,4697,46342,Construction/Transport,Belfast,0,0,0,0,0,2,0,0.0,31,11,12,0,0,0.0,2,0,1
+NI606574,dissolved,ltd,2011-03-11,2019-09-24,3119,69109,Finance/Insurance,Belfast,0,0,0,0,0,7,6,0.857,28,6,7,0,0,0.0,2,0,1
+NI606421,dissolved,ltd,2011-03-03,2023-09-12,4576,96020,Other Services,Enniskillen,0,0,0,0,0,1,0,0.0,30,11,12,0,0,0.0,1,0,1
+NI606491,dissolved,ltd,2011-03-08,2016-07-12,1953,96090,Other Services,Down,0,0,0,0,0,5,0,0.0,19,0,1,0,0,0.0,0,0,1
+NI606509,dissolved,ltd,2011-03-08,2020-09-22,3486,41100,Construction/Transport,Co. Down,0,0,0,0,0,3,2,0.667,42,7,8,0,0,0.0,1,0,1
+NI606705,dissolved,ltd,2011-03-21,2015-09-26,1650,46900,Construction/Transport,Antrim,1,0,1,0,0,1,0,0.0,13,2,1,0,0,0.0,0,0,1
+NI606818,dissolved,ltd,2011-03-28,2020-10-20,3494,62020,Finance/Insurance,Crumlin,0,0,0,0,0,3,1,0.333,23,8,9,0,0,0.0,1,0,1
+NI606840,dissolved,ltd,2011-03-29,2018-09-04,2716,99999,Other Services,Antrim,0,0,0,0,0,2,1,0.5,22,8,7,0,0,0.0,2,1,1
+NI606997,dissolved,ltd,2011-04-07,2015-08-07,1583,68320,Finance/Insurance,Co Antrim,0,0,0,0,0,1,0,0.0,12,4,4,0,0,0.0,0,0,1
+NI607020,dissolved,ltd,2011-04-08,2015-09-11,1617,80300,Public/Education/Health,County Down,0,0,0,0,0,2,1,0.5,16,3,4,0,0,0.0,0,0,1
+NI607447,dissolved,ltd,2011-05-17,2021-08-03,3731,86220,Public/Education/Health,Londonderry,0,0,0,0,0,2,0,0.0,23,9,9,0,0,0.0,1,0,1
+NI607576,dissolved,ltd,2011-05-25,2017-01-24,2071,,Unknown,Belfast,0,0,0,0,0,1,0,0.0,12,0,0,0,0,0.0,0,0,1
+NI607684,dissolved,ltd,2011-06-02,2016-11-15,1993,56102,Retail/Trade,Belfast,0,0,0,0,0,3,2,0.667,19,4,4,0,0,0.0,0,0,1
+NI607687,dissolved,ltd,2011-06-02,2015-02-06,1345,47650,Construction/Transport,County Antrim,0,0,0,0,0,1,0,0.0,9,2,2,0,0,0.0,0,0,1
+NI606739,dissolved,ltd,2011-03-23,2019-11-16,3160,71200,Real Estate/Business,Northern Ireland,1,0,0,0,0,2,1,0.5,17,2,3,0,0,0.0,0,0,1
+NI606799,dissolved,ltd,2011-03-25,2022-11-02,4240,33190,Manufacturing,Co Antrim,1,0,0,0,0,2,0,0.0,31,10,9,0,0,0.0,2,0,1
+NI607000,dissolved,ltd,2011-04-07,2014-11-21,1324,47990,Construction/Transport,County Londonderry,0,0,0,0,0,2,0,0.0,11,2,2,0,0,0.0,0,0,1
+NI607190,dissolved,ltd,2011-04-20,2021-09-25,3811,93290,Other Services,Belfast,1,0,0,0,0,3,0,0.0,23,6,6,0,0,0.0,2,0,1
+NI606847,dissolved,private-limited-guarant-nsc-limited-exemption,2011-03-29,2023-05-30,4445,87900,Public/Education/Health,Londonderry,0,0,0,0,0,8,3,0.375,36,10,11,0,0,0.0,0,0,1
+NI607011,dissolved,private-limited-guarant-nsc,2011-04-08,2020-12-22,3546,94110,Other Services,Belfast,0,0,0,0,0,12,8,0.667,37,10,9,0,0,0.0,2,2,1
+NI607053,dissolved,ltd,2011-04-12,2015-05-15,1494,32300,Manufacturing,Antrim,0,0,0,0,0,2,1,0.5,17,0,2,0,0,0.0,0,0,1
+NI607228,dissolved,ltd,2011-04-26,2016-10-04,1988,41202,Construction/Transport,Co.Tyrone,0,0,0,0,0,2,1,0.5,20,4,4,0,0,0.0,0,0,1
+NI607339,dissolved,ltd,2011-05-09,2021-12-07,3865,71122,Real Estate/Business,Co. Londonderry,0,0,0,0,0,2,0,0.0,23,9,10,0,0,0.0,2,0,1
+NI607519,dissolved,ltd,2011-05-20,2015-01-16,1337,62020,Finance/Insurance,Belfast,0,0,0,0,0,2,0,0.0,9,0,1,0,0,0.0,0,0,1
+NI606885,dissolved,ltd,2011-03-31,2016-10-18,2028,99999,Other Services,Belfast,0,0,0,0,0,2,0,0.0,14,4,5,0,0,0.0,0,0,1
+NI606933,dissolved,ltd,2011-04-04,2016-10-11,2017,96010,Other Services,Belfast,0,0,0,0,0,2,0,0.0,16,6,5,0,0,0.0,0,0,1
+NI607060,dissolved,ltd,2011-04-12,2022-12-14,4264,71111,Real Estate/Business,Belfast,1,0,0,0,0,2,1,0.5,29,6,7,0,0,0.0,2,0,1
+NI607545,dissolved,ltd,2011-05-23,2017-07-11,2241,96090,Other Services,Belfast,0,0,0,0,0,1,0,0.0,14,4,5,0,0,0.0,0,0,1
+NI607639,dissolved,ltd,2011-05-31,2019-07-16,2968,86210,Public/Education/Health,County Tyrone,0,0,0,0,0,1,0,0.0,20,6,7,0,0,0.0,2,0,1
+NI606758,dissolved,ltd,2011-03-24,2015-11-10,1692,62020,Finance/Insurance,Belfast,0,0,0,0,0,1,0,0.0,13,3,3,0,0,0.0,0,0,1
+NI606759,dissolved,private-limited-guarant-nsc-limited-exemption,2011-03-24,2022-10-11,4219,86900,Public/Education/Health,Belfast,0,0,0,0,0,6,3,0.5,41,11,11,0,0,0.0,0,0,1
+NI606830,dissolved,ltd,2011-03-28,2014-11-05,1318,56302,Retail/Trade,Co. Armagh,1,0,1,0,0,3,2,0.667,12,1,1,0,0,0.0,0,0,1
+NI606920,dissolved,ltd,2011-04-01,2024-04-09,4757,99999,Other Services,Belfast,0,0,0,0,0,1,0,0.0,36,12,12,0,0,0.0,1,0,1
+NI607001,dissolved,ltd,2011-04-07,2016-11-29,2063,69201,Finance/Insurance,Co. Antrim,0,0,0,0,0,1,0,0.0,15,5,5,0,0,0.0,0,0,1
+NI607278,dissolved,ltd,2011-05-04,2016-10-04,1980,38110,Manufacturing,Antrim,0,0,0,0,0,2,0,0.0,12,3,2,0,0,0.0,0,0,1
+NI607421,dissolved,ltd,2011-05-16,2019-02-12,2829,20412,Manufacturing,Craigavon,0,0,0,0,0,3,1,0.333,22,7,7,0,0,0.0,1,0,1
+NI607551,dissolved,ltd,2011-05-24,2015-11-03,1624,47990,Construction/Transport,Belfast,0,0,0,0,0,2,1,0.5,17,5,4,0,0,0.0,0,0,1
+NI607867,dissolved,ltd,2011-06-14,2022-08-02,4067,80200,Public/Education/Health,Londonderry,0,0,0,0,0,2,2,1.0,25,4,7,0,0,0.0,0,0,1
+NI606870,dissolved,ltd,2011-03-30,2015-06-12,1535,58110,Retail/Trade,Belfast,0,0,0,0,0,2,0,0.0,12,2,3,0,0,0.0,0,0,1
+NI606872,dissolved,ltd,2011-03-30,2022-05-03,4052,41202,Construction/Transport,Co. Tyrone,0,0,0,0,0,1,0,0.0,16,6,6,0,0,0.0,1,0,1
+NI607029,dissolved,ltd,2011-04-11,2019-09-17,3081,77390,Real Estate/Business,Newry,0,0,0,0,0,2,1,0.5,24,8,7,0,0,0.0,1,0,1
+NI607395,dissolved,ltd,2011-05-12,2019-05-20,2930,47799,Construction/Transport,Co Tyrone,1,0,1,0,0,1,0,0.0,16,0,2,0,0,0.0,0,0,1
+NI607645,dissolved,ltd,2011-05-31,2015-06-05,1466,47110,Construction/Transport,County Down,0,0,0,0,0,3,2,0.667,21,3,3,0,0,0.0,0,0,1
+NI607662,dissolved,ltd,2011-05-31,2019-08-27,3010,49410,Construction/Transport,County Tyrone,0,0,0,0,0,3,1,0.333,24,9,8,0,0,0.0,1,0,1
+NI606712,dissolved,ltd,2011-03-21,2015-11-10,1695,47910,Construction/Transport,Belfast,0,0,0,0,0,2,0,0.0,11,3,3,0,0,0.0,0,0,1
+NI607235,dissolved,ltd,2011-04-26,2014-12-19,1333,70229,Real Estate/Business,Fermanagh,0,0,0,0,0,2,0,0.0,11,2,3,0,0,0.0,0,0,1
+NI607032,dissolved,private-limited-guarant-nsc,2011-04-11,2016-11-08,2038,94990,Other Services,County Armagh,0,0,0,0,0,21,13,0.619,42,6,4,0,0,0.0,0,0,1
+NI607458,dissolved,ltd,2011-05-17,2016-08-02,1904,43999,Construction/Transport,Down,0,0,0,0,0,3,1,0.333,16,1,2,0,0,0.0,0,0,1
+NI607573,dissolved,ltd,2011-05-25,2021-10-26,3807,25610,Manufacturing,County Londonderry,0,0,0,0,0,2,1,0.5,26,9,9,0,0,0.0,1,0,1
+NI607196,dissolved,ltd,2011-04-21,2018-12-03,2783,46342,Construction/Transport,Co Down,1,1,0,0,0,4,1,0.25,39,7,5,4,2,0.5,0,0,1
+NI607266,dissolved,ltd,2011-05-03,2021-06-08,3689,85590,Public/Education/Health,County Down,0,0,0,0,0,1,0,0.0,25,10,10,0,0,0.0,1,0,1
+NI607251,dissolved,ltd,2011-04-28,2016-02-09,1748,47300,Construction/Transport,County Armagh,0,0,0,0,0,4,3,0.75,17,4,4,0,0,0.0,0,0,1
+NI607292,dissolved,ltd,2011-05-05,2016-10-04,1979,,Unknown,Dungannon,0,0,0,0,0,2,0,0.0,12,0,0,0,0,0.0,0,0,1
+NI607328,dissolved,ltd,2011-05-09,2016-05-17,1835,42220,Construction/Transport,Derry,0,0,0,0,0,1,0,0.0,14,3,4,0,0,0.0,0,0,1
+NI608000,dissolved,ltd,2011-06-24,2019-04-23,2860,99999,Other Services,Belfast,0,0,0,0,0,4,0,0.0,22,6,7,0,0,0.0,1,0,1
+NI607013,dissolved,ltd,2011-04-08,2023-02-21,4337,62030,Finance/Insurance,Ballymena,0,0,0,0,0,2,1,0.5,46,11,10,0,0,0.0,2,1,1
+NI607153,dissolved,ltd,2011-04-19,2019-12-17,3164,74990,Real Estate/Business,Belfast,0,0,0,0,0,3,2,0.667,24,7,8,0,0,0.0,0,0,1
+NI606858,dissolved,ltd,2011-03-29,2017-09-05,2352,47710,Construction/Transport,Co.Down,0,0,0,0,0,2,0,0.0,14,5,5,0,0,0.0,0,0,1
+NI636962,dissolved,ltd,2016-03-08,2021-08-17,1988,77390,Real Estate/Business,County Down,0,0,0,0,0,2,0,0.0,15,3,4,0,0,0.0,1,0,1
+NI636946,dissolved,ltd,2016-03-08,2021-08-10,1981,56103,Retail/Trade,County Antrim,0,0,0,0,0,1,0,0.0,13,4,5,0,0,0.0,1,0,1
+NI636997,dissolved,ltd,2016-03-10,2017-12-19,649,47190,Construction/Transport,Newry,0,0,0,0,0,1,0,0.0,7,2,1,0,0,0.0,1,0,1
+NI637080,dissolved,ltd,2016-03-14,2023-04-11,2584,10710,Manufacturing,County Down,0,1,0,0,0,2,0,0.0,22,6,7,1,1,0.0,3,1,1
+NI637268,dissolved,ltd,2016-03-22,2018-04-24,763,82110,Public/Education/Health,County Armagh,0,0,0,0,0,1,0,0.0,7,1,1,0,0,0.0,1,0,1
+NI637180,dissolved,ltd,2016-03-18,2018-07-17,851,,Unknown,Belfast,1,0,0,0,0,1,0,0.0,9,0,0,0,0,0.0,0,0,1
+NI635611,dissolved,ltd,2016-01-05,2018-05-15,861,68100,Finance/Insurance,County Antrim,0,0,0,0,0,1,0,0.0,8,1,2,0,0,0.0,1,0,1
+NI635840,dissolved,ltd,2016-01-15,2018-01-09,725,41202,Construction/Transport,Co Derry,0,0,0,0,0,1,0,0.0,5,0,1,0,0,0.0,1,0,1
+NI637596,dissolved,ltd,2016-04-06,2018-05-29,783,47650,Construction/Transport,Carrickfergus,0,0,0,0,0,1,0,0.0,4,0,1,0,0,0.0,1,0,1
+NI637665,dissolved,ltd,2016-04-08,2017-09-12,522,,Unknown,County Londonderry,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636164,dissolved,ltd,2016-02-02,2018-01-30,728,82110,Public/Education/Health,Belfast,0,0,0,0,0,3,2,0.667,15,4,1,0,0,0.0,1,0,1
+NI636204,dissolved,private-limited-guarant-nsc,2016-02-04,2017-07-11,523,,Unknown,Co Tyrone,0,0,0,0,0,3,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636886,dissolved,ltd,2016-03-04,2023-08-08,2713,22290,Manufacturing,Co Tyrone,0,0,0,0,0,3,1,0.333,29,6,6,0,0,0.0,1,0,1
+NI637007,dissolved,ltd,2016-03-10,2018-02-06,698,70100,Real Estate/Business,Belfast,0,0,0,0,0,2,0,0.0,5,0,1,0,0,0.0,2,0,1
+NI636973,dissolved,ltd,2016-03-09,2018-07-10,853,,Unknown,Banbridge,0,0,0,0,0,1,0,0.0,5,0,0,0,0,0.0,0,0,1
+NI635592,dissolved,ltd,2016-01-04,2017-06-13,526,,Unknown,Belfast,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637046,dissolved,ltd,2016-03-11,2019-02-12,1068,86900,Public/Education/Health,Bangor,0,0,0,0,0,2,0,0.0,11,3,2,0,0,0.0,2,0,1
+NI637332,dissolved,ltd,2016-03-24,2017-12-12,628,93130,Other Services,Belfast,0,0,0,0,0,1,0,0.0,5,0,1,0,0,0.0,1,0,1
+NI635833,dissolved,ltd,2016-01-15,2017-06-27,529,,Unknown,Parkgate,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637570,dissolved,ltd,2016-04-05,2017-09-12,525,,Unknown,County Tyrone,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637540,dissolved,ltd,2016-04-04,2018-02-06,673,,Unknown,Belfast,0,0,0,0,0,2,1,0.5,5,0,0,0,0,0.0,0,0,1
+NI636773,dissolved,ltd,2016-03-01,2019-09-24,1302,33160,Manufacturing,Antrim,0,0,0,0,0,1,0,0.0,9,2,3,0,0,0.0,1,0,1
+NI635744,dissolved,ltd,2016-01-12,2019-05-28,1232,43999,Construction/Transport,Omagh,0,0,0,0,0,2,1,0.5,9,1,2,0,0,0.0,2,0,1
+NI637179,dissolved,ltd,2016-03-18,2017-08-22,522,,Unknown,Belfast,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637216,dissolved,ltd,2016-03-21,2022-07-19,2311,81100,Public/Education/Health,Ballyclare,0,0,0,0,0,2,1,0.5,19,5,6,0,0,0.0,1,0,1
+NI637681,dissolved,ltd,2016-04-11,2022-04-19,2199,70229,Real Estate/Business,Londonderry,0,0,0,0,0,1,0,0.0,13,4,5,0,0,0.0,1,0,1
+NI635995,dissolved,ltd,2016-01-25,2017-07-04,526,,Unknown,Banbridge,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636044,dissolved,ltd,2016-01-27,2018-07-03,888,63990,Finance/Insurance,Antrim,0,0,0,0,0,3,1,0.333,7,1,1,0,0,0.0,2,0,1
+NI636665,dissolved,ltd,2016-02-25,2022-09-07,2386,62090,Finance/Insurance,Belfast,1,0,0,0,0,1,0,0.0,20,4,4,0,0,0.0,4,0,1
+NI636758,dissolved,ltd,2016-02-29,2018-10-30,974,86900,Public/Education/Health,Armagh,0,0,0,0,0,1,0,0.0,12,2,3,0,0,0.0,0,0,1
+NI636361,dissolved,ltd,2016-02-10,2017-07-18,524,,Unknown,County Down,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637218,dissolved,ltd,2016-03-21,2018-05-15,785,47910,Construction/Transport,Antrim,0,0,0,0,0,2,0,0.0,4,0,1,0,0,0.0,1,0,1
+NI635620,dissolved,ltd,2016-01-05,2018-07-17,924,79901,Real Estate/Business,Portrush,0,0,0,0,0,2,1,0.5,8,1,2,0,0,0.0,1,0,1
+NI635689,dissolved,private-limited-guarant-nsc,2016-01-08,2023-10-03,2825,84110,Public/Education/Health,Omagh,0,0,0,0,0,37,13,0.351,46,6,7,0,0,0.0,0,0,1
+NI635813,dissolved,ltd,2016-01-14,2017-06-20,523,,Unknown,County Londonderry,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI635870,dissolved,ltd,2016-01-18,2023-03-14,2612,90010,Other Services,Belfast,0,0,0,0,0,1,0,0.0,18,6,7,0,0,0.0,1,0,1
+NI635986,dissolved,ltd,2016-01-25,2017-06-06,498,99999,Other Services,County Armagh,0,0,0,0,0,1,0,0.0,5,0,1,0,0,0.0,1,0,1
+NI636008,dissolved,ltd,2016-01-25,2017-07-04,526,,Unknown,Down,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636421,dissolved,ltd,2016-02-12,2017-07-18,522,,Unknown,County Tyrone,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI635723,dissolved,ltd,2016-01-11,2019-04-23,1198,93290,Other Services,County Antrim,0,0,0,0,0,2,0,0.0,11,1,2,0,0,0.0,2,0,1
+NI635735,dissolved,ltd,2016-01-11,2017-06-13,519,,Unknown,Co. Tyrone,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI635595,dissolved,ltd,2016-01-04,2017-06-13,526,,Unknown,Belfast,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI635743,dissolved,ltd,2016-01-12,2016-09-13,245,,Unknown,Co Fermanagh,0,0,0,0,0,1,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI635677,dissolved,ltd,2016-01-07,2016-08-23,229,,Unknown,County Tyrone,0,0,0,0,0,2,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI636500,dissolved,ltd,2016-02-17,2017-07-25,524,,Unknown,County Tyrone,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636571,dissolved,ltd,2016-02-22,2018-04-03,771,46190,Construction/Transport,Carrickfergus,0,0,0,0,0,1,0,0.0,5,0,1,0,0,0.0,0,0,1
+NI636272,dissolved,ltd,2016-02-08,2018-02-27,750,80200,Public/Education/Health,Co. Londonderry,0,0,0,0,0,1,0,0.0,6,1,1,0,0,0.0,1,0,1
+NI636578,dissolved,ltd,2016-02-22,2018-12-04,1016,59200,Retail/Trade,Strabane,0,0,0,0,0,1,0,0.0,8,1,2,0,0,0.0,1,0,1
+NI636616,dissolved,ltd,2016-02-23,2018-05-29,826,42110,Construction/Transport,Derry,0,0,0,0,0,1,0,0.0,6,1,1,0,0,0.0,1,0,1
+NI636376,dissolved,private-limited-guarant-nsc,2016-02-11,2020-03-24,1503,56290,Retail/Trade,Co Antrim,0,0,0,0,0,8,3,0.375,20,3,3,0,0,0.0,1,0,1
+NI636196,dissolved,ltd,2016-02-03,2022-09-20,2421,96090,Other Services,Down,0,0,0,0,0,2,0,0.0,15,5,6,0,0,0.0,2,0,1
+NI636221,dissolved,ltd,2016-02-04,2017-08-08,551,45112,Construction/Transport,County Down,0,0,0,0,0,1,0,0.0,5,0,1,0,0,0.0,1,0,1
+NI637329,dissolved,ltd,2016-03-23,2020-09-22,1644,35110,Manufacturing,Belfast,0,0,0,0,0,6,1,0.167,13,3,3,0,0,0.0,0,0,1
+NI637331,dissolved,private-limited-guarant-nsc,2016-03-23,2017-07-25,489,,Unknown,Co Antrim,0,0,0,0,0,4,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI637446,dissolved,ltd,2016-03-31,2017-09-05,523,,Unknown,County Antrim,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636527,dissolved,ltd,2016-02-18,2017-06-06,474,62012,Finance/Insurance,Belfast,0,0,0,0,0,3,2,0.667,12,1,1,0,0,0.0,1,0,1
+NI636653,dissolved,ltd,2016-02-24,2017-08-01,524,,Unknown,Antrim,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636678,dissolved,ltd,2016-02-25,2017-08-01,523,,Unknown,County Antrim,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636496,dissolved,private-limited-guarant-nsc,2016-02-17,2022-03-08,2211,93290,Other Services,Belfast,1,0,0,0,0,4,2,0.5,13,0,1,0,0,0.0,1,0,1
+NI636782,dissolved,ltd,2016-03-01,2018-07-10,861,,Unknown,Belfast,0,0,0,0,0,1,0,0.0,5,0,0,0,0,0.0,0,0,1
+NI636802,dissolved,ltd,2016-03-02,2017-08-08,524,,Unknown,County Antrim,0,0,0,0,0,2,1,0.5,8,0,0,0,0,0.0,0,0,1
+NI636505,dissolved,ltd,2016-02-18,2019-01-15,1062,62012,Finance/Insurance,Bangor,0,0,0,0,0,1,0,0.0,8,1,2,0,0,0.0,1,0,1
+NI636600,dissolved,ltd,2016-02-23,2017-08-01,525,,Unknown,Bangor,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636194,dissolved,ltd,2016-02-03,2017-07-11,524,,Unknown,County Antrim,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636596,dissolved,ltd,2016-02-23,2017-08-01,525,,Unknown,County Antrim,0,0,0,0,0,1,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI636603,dissolved,ltd,2016-02-23,2017-08-01,525,,Unknown,Antrim,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636604,dissolved,ltd,2016-02-23,2018-04-24,791,70229,Real Estate/Business,Co. Antrim,0,0,0,0,0,1,0,0.0,7,2,1,0,0,0.0,1,0,1
+NI636306,dissolved,ltd,2016-02-09,2017-04-25,441,47910,Construction/Transport,County Down,0,0,0,0,0,2,0,0.0,8,0,2,0,0,0.0,1,0,1
+NI636373,dissolved,ltd,2016-02-11,2017-05-30,474,,Unknown,County Antrim,0,0,0,0,0,2,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI636528,dissolved,ltd,2016-02-18,2017-05-02,439,,Unknown,Armagh,0,0,0,0,0,1,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI636625,dissolved,private-limited-guarant-nsc,2016-02-24,2017-06-13,475,,Unknown,Belfast,0,0,0,0,0,3,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI636353,dissolved,ltd,2016-02-10,2023-05-02,2638,56103,Retail/Trade,Belfast,0,0,0,0,0,1,0,0.0,14,5,6,0,0,0.0,1,0,1
+NI636265,dissolved,ltd,2016-02-08,2023-05-16,2654,68320,Finance/Insurance,Co Down,0,0,0,0,0,1,0,0.0,18,6,9,0,0,0.0,1,0,1
+NI636567,dissolved,ltd,2016-02-22,2017-07-25,519,,Unknown,County Tyrone,0,0,0,0,0,1,0,0.0,5,1,0,0,0,0.0,0,0,1
+NI636477,dissolved,ltd,2016-02-17,2018-07-24,888,47540,Construction/Transport,Carrickfergus,0,0,0,0,0,1,0,0.0,5,1,1,0,0,0.0,1,0,1
+NI636490,dissolved,ltd,2016-02-17,2018-06-19,853,74909,Real Estate/Business,Portadown,0,0,0,0,0,1,0,0.0,7,1,2,0,0,0.0,1,0,1
+NI636663,dissolved,ltd,2016-02-25,2017-08-01,523,,Unknown,Antrim,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636543,dissolved,ltd,2016-02-19,2018-04-10,781,31020,Manufacturing,Londonderry,0,0,0,0,0,1,0,0.0,7,0,1,0,0,0.0,0,0,1
+NI636592,dissolved,ltd,2016-02-22,2018-10-16,967,56102,Retail/Trade,Antrim,0,0,0,0,0,2,0,0.0,7,1,1,0,0,0.0,1,0,1
+NI636729,dissolved,ltd,2016-02-29,2023-05-30,2647,99999,Other Services,County Londonderry,0,0,0,0,0,4,1,0.25,19,6,7,0,0,0.0,1,0,1
+NI636817,dissolved,ltd,2016-03-02,2019-05-14,1168,32990,Manufacturing,Newry,0,0,0,0,0,3,0,0.0,6,1,2,0,0,0.0,1,0,1
+NI636891,dissolved,ltd,2016-03-04,2017-07-18,501,,Unknown,Co. Antrim,0,0,0,0,0,1,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI636892,dissolved,ltd,2016-03-04,2017-08-08,522,,Unknown,Newry,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637135,dissolved,ltd,2016-03-16,2019-05-21,1161,68100,Finance/Insurance,Bangor,0,0,0,0,0,1,0,0.0,9,1,2,0,0,0.0,1,0,1
+NI637293,dissolved,ltd,2016-03-23,2020-10-06,1658,62090,Finance/Insurance,Belfast,0,0,0,0,0,1,0,0.0,18,3,4,0,0,0.0,1,0,1
+NI637470,dissolved,ltd,2016-03-31,2020-01-21,1391,41100,Construction/Transport,Londonderry,0,0,0,0,0,3,2,0.667,19,3,5,0,0,0.0,1,0,1
+NI637521,dissolved,ltd,2016-04-04,2017-09-12,526,,Unknown,County Armagh,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637358,dissolved,ltd,2016-03-24,2018-07-10,838,28302,Manufacturing,Belfast,0,0,0,0,0,2,0,0.0,7,1,2,0,0,0.0,1,0,1
+NI637362,dissolved,ltd,2016-03-24,2018-07-10,838,28302,Manufacturing,Belfast,0,0,0,0,0,2,0,0.0,7,1,2,0,0,0.0,1,0,1
+NI636769,dissolved,ltd,2016-03-01,2017-08-01,518,,Unknown,Belfast,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI636786,dissolved,ltd,2016-03-01,2019-05-21,1176,74909,Real Estate/Business,N Ireland,0,0,0,0,0,3,2,0.667,12,1,2,0,0,0.0,3,0,1
+NI636695,dissolved,ltd,2016-02-26,2019-01-08,1047,47599,Construction/Transport,County Londonderry,0,0,0,0,0,1,0,0.0,9,1,2,0,0,0.0,1,0,1
+NI636818,dissolved,ltd,2016-03-02,2017-02-28,363,,Unknown,Newtownabbey,0,0,0,0,0,1,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI636900,dissolved,ltd,2016-03-07,2018-05-15,799,68320,Finance/Insurance,Belfast,0,0,0,0,0,2,1,0.5,7,0,1,0,0,0.0,1,0,1
+NI636945,dissolved,ltd,2016-03-08,2016-11-22,259,,Unknown,County Down,0,0,0,0,0,5,0,0.0,4,0,0,0,0,0.0,0,0,1
+NI637314,dissolved,ltd,2016-03-23,2017-08-22,517,,Unknown,County Armagh,0,0,0,0,0,2,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637444,dissolved,ltd,2016-03-31,2019-09-10,1258,78109,Real Estate/Business,Belfast,0,0,0,0,0,1,0,0.0,7,2,2,0,0,0.0,1,0,1
+NI637190,dissolved,ltd,2016-03-18,2021-08-10,1971,99999,Other Services,Antrim,0,0,0,0,0,3,2,0.667,20,4,4,0,0,0.0,2,1,1
+NI637403,dissolved,ltd,2016-03-29,2017-08-29,518,,Unknown,Belfast,0,0,0,0,0,1,0,0.0,3,0,0,0,0,0.0,0,0,1
+NI637448,dissolved,ltd,2016-03-31,2023-05-30,2616,33140,Manufacturing,County Antrim,0,0,0,0,0,2,0,0.0,20,5,6,0,0,0.0,2,0,1
