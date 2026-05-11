@@ -60,5 +60,23 @@ Python, pandas, scikit-learn, XGBoost, SHAP, matplotlib, seaborn, REST APIs
 ## Data Source
 [Companies House Public Data API](https://developer-specs.company-information.service.gov.uk/companies-house-public-data-api/reference)
 
-## Status
-Work in progress — awaiting survival analysis and API deployment.
+## Key Learnings
+
+- **Simpler models can match complex ones** — Logistic Regression matched 
+  Random Forest and XGBoost on this dataset, reinforcing that model 
+  complexity should be justified by performance.
+- **Feature engineering matters more than model choice** — the cleaning 
+  and engineering work in the EDA stage (region consolidation, SIC missing 
+  flag, officer turnover rate) had more impact on performance than 
+  switching between models
+- **API data is messy** — region labels like `Co Antrim`, `Co. Antrim` 
+  and `County Antrim` all mean the same thing but required significant 
+  cleaning before being useful
+- **SHAP over built-in importance** — built-in feature importance scores 
+  don't show direction or individual prediction contributions; SHAP is 
+  more rigorous and more useful for explaining model decisions
+- **Sampling strategy affects everything** — deliberately balancing 
+  classes produces a cleaner modelling problem but creates a distribution 
+  mismatch with the real world that would need addressing before deployment
+- **Security from the start** — storing API keys in `.env` files rather 
+  than notebooks prevents accidental exposure when pushing to GitHub
